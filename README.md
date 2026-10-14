@@ -21,7 +21,7 @@ materials. This repo rebuilds it as a proper product:
 |---------------|-------------------------------|
 | Frontend      | http://localhost:5173        |
 | Backend API   | http://localhost:8000 (docs at `/docs`) |
-| MySQL         | localhost:3306                |
+| MySQL         | localhost:3307 (host-side port, to avoid clashing with a local MySQL install; containers talk to `mysql:3306` internally) |
 | Mailpit (mail catcher UI) | http://localhost:8025 |
 | n8n           | http://localhost:5678        |
 
