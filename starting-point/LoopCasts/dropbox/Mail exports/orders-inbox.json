@@ -1,0 +1,779 @@
+[
+ {
+  "from": "sofie.peeters@example.com",
+  "name": "Sofie Peeters",
+  "date": "2026-01-05T14:04:00",
+  "subject": "Order: yearly subscription",
+  "body": "hi, yearly subscription please. Sofie Peeters"
+ },
+ {
+  "from": "jan@willems-data.example",
+  "name": "Jan Willems",
+  "date": "2026-01-05T14:52:00",
+  "subject": "Order: team licence",
+  "body": "Dear LoopCasts,\n\nI would like to order a team licence.\n\nName: Jan Willems\nE-mail: jan@willems-data.example\nCompany: Willems Data BV\nVAT: BE0456.789.123\nCountry: Belgium\n\nKind regards,\nJan Willems"
+ },
+ {
+  "from": "ruben@devries.example",
+  "name": "Ruben de Vries",
+  "date": "2026-01-05T21:11:00",
+  "subject": "Order: yearly subscription",
+  "body": "hi, yearly subscription please. Ruben de Vries, De Vries Analytics (NL853746291B01)"
+ },
+ {
+  "from": "emma.dubois@example.com",
+  "name": "Emma Dubois",
+  "date": "2026-01-06T21:05:00",
+  "subject": "Order: single course",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the single course. How does it work, do I get an invoice first?\n\nThanks!\nEmma\n\nSent from my iPhone\n\n(it is for the course about n8n basics)"
+ },
+ {
+  "from": "t.maes@example.com",
+  "name": "Thomas Maes",
+  "date": "2026-01-06T19:49:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dear LoopCasts,\n\nI would like to order a yearly subscription.\n\nName: Thomas Maes\nE-mail: t.maes@example.com\n\nKind regards,\nThomas Maes"
+ },
+ {
+  "from": "lukas@schmidt-it.example",
+  "name": "Lukas Schmidt",
+  "date": "2026-01-06T14:06:00",
+  "subject": "Order: team licence",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the team licence for our company Schmidt IT GmbH. How does it work, do I get an invoice first?\n\nThanks!\nLukas\n\nSent from my iPhone"
+ },
+ {
+  "from": "nina.claes@example.com",
+  "name": "Nina Claes",
+  "date": "2026-01-07T07:14:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dear LoopCasts,\n\nI would like to order a monthly subscription.\n\nName: Nina Claes\nE-mail: nina.claes@example.com\n\nKind regards,\nNina Claes"
+ },
+ {
+  "from": "pj@goossens.example",
+  "name": "Pieter-Jan Goossens",
+  "date": "2026-01-07T11:04:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dear LoopCasts,\n\nI would like to order a yearly subscription.\n\nName: Pieter-Jan Goossens\nE-mail: pj@goossens.example\nCompany: Goossens Consulting\nVAT: BE0789.456.321\nCountry: BE\n\nKind regards,\nPieter-Jan Goossens"
+ },
+ {
+  "from": "anna.k@example.com",
+  "name": "Anna Kowalska",
+  "date": "2026-01-07T07:10:00",
+  "subject": "Order: yearly subscription",
+  "body": "hi, yearly subscription please. Anna Kowalska"
+ },
+ {
+  "from": "sofie.peeters@example.com",
+  "name": "Sofie Peeters",
+  "date": "2026-01-08T21:21:00",
+  "subject": "Order: yearly subscription",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the yearly subscription. How does it work, do I get an invoice first?\n\nThanks!\nSofie\n\nSent from my iPhone"
+ },
+ {
+  "from": "mark@johnsonlabs.example",
+  "name": "Mark Johnson",
+  "date": "2026-01-08T15:36:00",
+  "subject": "order",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the team licence for our company Johnson Labs Inc. How does it work, do I get an invoice first?\n\nThanks!\nMark\n\nSent from my iPhone"
+ },
+ {
+  "from": "hanne.wouters@example.com",
+  "name": "Hanne Wouters",
+  "date": "2026-01-08T20:35:00",
+  "subject": "(no subject)",
+  "body": "hi, single course please. Hanne Wouters\n\n(it is for the course about webhooks)"
+ },
+ {
+  "from": "bram@jacobs.example",
+  "name": "Bram Jacobs",
+  "date": "2026-01-09T18:54:00",
+  "subject": "question + order",
+  "body": "hi, yearly subscription please. Bram Jacobs"
+ },
+ {
+  "from": "fatima@benali-consult.example",
+  "name": "Fatima Benali",
+  "date": "2026-01-09T19:26:00",
+  "subject": "question + order",
+  "body": "hi, yearly subscription please. Fatima Benali, Benali Consult (BE0567.123.987)"
+ },
+ {
+  "from": "koen.vandamme@example.com",
+  "name": "Koen Van Damme",
+  "date": "2026-01-09T08:47:00",
+  "subject": "Order: monthly subscription",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the monthly subscription. How does it work, do I get an invoice first?\n\nThanks!\nKoen\n\nSent from my iPhone"
+ },
+ {
+  "from": "ilse@mertens.example",
+  "name": "Ilse Mertens",
+  "date": "2026-01-10T17:02:00",
+  "subject": "Order: team licence",
+  "body": "Dag,\n\nGraag een team licence voor Ilse Mertens (Mertens & Co, btw BE 0678 234 519).\n\nMvg\nIlse"
+ },
+ {
+  "from": "daan@bakker.example",
+  "name": "Daan Bakker",
+  "date": "2026-01-10T17:43:00",
+  "subject": "question + order",
+  "body": "hi, yearly subscription please. Daan Bakker, Bakker Automatisering (NL861234567B01)"
+ },
+ {
+  "from": "julie.lambert@example.com",
+  "name": "Julie Lambert",
+  "date": "2026-01-10T06:12:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dag,\n\nGraag een jaarabonnement voor Julie Lambert.\n\nMvg\nJulie"
+ },
+ {
+  "from": "wout.hermans@example,com",
+  "name": "Wout Hermans",
+  "date": "2026-01-11T17:59:00",
+  "subject": "Order: single course",
+  "body": "Dag,\n\nGraag een single course voor Wout Hermans.\n\nMvg\nWout\n\n(it is for the course about AI agents)"
+ },
+ {
+  "from": "c.martin@martin-sarl.example",
+  "name": "Charlotte Martin",
+  "date": "2026-01-11T06:12:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dag,\n\nGraag een jaarabonnement voor Charlotte Martin (Martin SARL, btw FR40303265045).\n\nMvg\nCharlotte"
+ },
+ {
+  "from": "stijn@debacker.example",
+  "name": "Stijn De Backer",
+  "date": "2026-01-11T09:35:00",
+  "subject": "question + order",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the yearly subscription. How does it work, do I get an invoice first?\n\nThanks!\nStijn\n\nSent from my iPhone"
+ },
+ {
+  "from": "laura.jansen@example.com",
+  "name": "Laura Jansen",
+  "date": "2026-01-12T14:22:00",
+  "subject": "Order: monthly subscription",
+  "body": "Dear LoopCasts,\n\nI would like to order a monthly subscription.\n\nName: Laura Jansen\nE-mail: laura.jansen@example.com\n\nKind regards,\nLaura Jansen"
+ },
+ {
+  "from": "tim@vermeulen.example",
+  "name": "Tim Vermeulen",
+  "date": "2026-01-12T21:28:00",
+  "subject": "(no subject)",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the yearly subscription for our company Vermeulen BV. How does it work, do I get an invoice first? Our VAT number is BE0890.345.672.\n\nThanks!\nTim\n\nSent from my iPhone"
+ },
+ {
+  "from": "sarah@obrien.example",
+  "name": "Sarah O'Brien",
+  "date": "2026-01-12T12:19:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dear LoopCasts,\n\nI would like to order a yearly subscription.\n\nName: Sarah O'Brien\nE-mail: sarah@obrien.example\n\nKind regards,\nSarah O'Brien"
+ },
+ {
+  "from": "jeroen.smets@example.com",
+  "name": "Jeroen Smets",
+  "date": "2026-01-13T19:35:00",
+  "subject": "order",
+  "body": "Dag,\n\nGraag een jaarabonnement voor Jeroen Smets.\n\nMvg\nJeroen"
+ },
+ {
+  "from": "elke@desmet.example",
+  "name": "Elke Desmet",
+  "date": "2026-01-13T21:05:00",
+  "subject": "Order: single course",
+  "body": "Dag,\n\nGraag een single course voor Elke Desmet (Desmet Data, btw BE0345.678.912).\n\nMvg\nElke\n\n(it is for the course about n8n basics)"
+ },
+ {
+  "from": "matteo@rossi.example",
+  "name": "Matteo Rossi",
+  "date": "2026-01-13T09:25:00",
+  "subject": "Order: team licence",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the team licence for our company Rossi SRL. How does it work, do I get an invoice first? Our VAT number is IT12345678901.\n\nThanks!\nMatteo\n\nSent from my iPhone"
+ },
+ {
+  "from": "lien.pauwels@example.com",
+  "name": "Lien Pauwels",
+  "date": "2026-01-14T22:21:00",
+  "subject": "(no subject)",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the yearly subscription. How does it work, do I get an invoice first?\n\nThanks!\nLien\n\nSent from my iPhone"
+ },
+ {
+  "from": "niels@hendrickx.example",
+  "name": "Niels Hendrickx",
+  "date": "2026-01-14T22:05:00",
+  "subject": "question + order",
+  "body": "Dag,\n\nGraag een monthly subscription voor Niels Hendrickx.\n\nMvg\nNiels"
+ },
+ {
+  "from": "amber.michiels@example.com",
+  "name": "Amber Michiels",
+  "date": "2026-01-14T11:41:00",
+  "subject": "Order: yearly subscription",
+  "body": "hi, yearly subscription please. Amber Michiels"
+ },
+ {
+  "from": "nicolas48@petit-labs.example",
+  "name": "Nicolas Petit",
+  "date": "2026-01-19T18:29:00",
+  "subject": "Order: yearly subscription",
+  "body": "hi, yearly subscription please. Nicolas Petit, Petit Labs SARL (FR10579709661)"
+ },
+ {
+  "from": "jonas.lambert@example.com",
+  "name": "Jonas Lambert",
+  "date": "2026-01-19T17:45:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dag,\n\nGraag een jaarabonnement voor Jonas Lambert.\n\nMvg\nJonas"
+ },
+ {
+  "from": "maarten89@example.com",
+  "name": "Maarten Smit",
+  "date": "2026-01-20T09:38:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dag,\n\nGraag een jaarabonnement voor Maarten Smit.\n\nMvg\nMaarten"
+ },
+ {
+  "from": "evi@peeters-systems.example",
+  "name": "Evi Peeters",
+  "date": "2026-01-20T18:21:00",
+  "subject": "(no subject)",
+  "body": "hi, single course please. Evi Peeters, Peeters Systems VOF (BE0281453987)\n\n(it is for the course about prompt engineering for workflows)"
+ },
+ {
+  "from": "noor44@example.com",
+  "name": "Noor Willems",
+  "date": "2026-01-21T19:05:00",
+  "subject": "Order: single course",
+  "body": "hi, single course please. Noor Willems\n\n(it is for the course about AI agents)"
+ },
+ {
+  "from": "kevin.maes@orbitstack.example",
+  "name": "Kevin Maes",
+  "date": "2026-01-21T22:09:00",
+  "subject": "(no subject)",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the yearly subscription for our company Orbitstack VOF. How does it work, do I get an invoice first? Our VAT number is BE0481394891.\n\nThanks!\nKevin\n\nSent from my iPhone"
+ },
+ {
+  "from": "a.hendrickx@mail.example",
+  "name": "Amber Hendrickx",
+  "date": "2026-01-22T06:27:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dag,\n\nGraag een jaarabonnement voor Amber Hendrickx.\n\nMvg\nAmber"
+ },
+ {
+  "from": "jeroen.declercq@fluxworks.example",
+  "name": "Jeroen Declercq",
+  "date": "2026-01-23T15:26:00",
+  "subject": "Bestelling",
+  "body": "Dear LoopCasts,\n\nI would like to order a single course.\n\nName: Jeroen Declercq\nE-mail: jeroen.declercq@fluxworks.example\nCompany: Fluxworks BV\nVAT: BE0694555365\nCountry: BE\n\nKind regards,\nJeroen Declercq\n\n(it is for the course about RAG on your own documents)"
+ },
+ {
+  "from": "t.declercq@example.com",
+  "name": "Thomas Declercq",
+  "date": "2026-01-23T06:36:00",
+  "subject": "Order: yearly subscription",
+  "body": "hi, yearly subscription please. Thomas Declercq"
+ },
+ {
+  "from": "sanne.hendriks@orbitflow.example",
+  "name": "Sanne Hendriks",
+  "date": "2026-01-24T10:07:00",
+  "subject": "order",
+  "body": "Dear LoopCasts,\n\nI would like to order a single course.\n\nName: Sanne Hendriks\nE-mail: sanne.hendriks@orbitflow.example\nCompany: Orbitflow BV\nVAT: NL549172935B01\nCountry: NL\n\nKind regards,\nSanne Hendriks\n\n(it is for the course about n8n error handling)"
+ },
+ {
+  "from": "eline.smets@deltastack.example",
+  "name": "Eline Smets",
+  "date": "2026-01-25T09:53:00",
+  "subject": "Order: yearly subscription",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the yearly subscription for our company Deltastack NV. How does it work, do I get an invoice first? Our VAT number is be0733005496.\n\nThanks!\nEline\n\nSent from my iPhone"
+ },
+ {
+  "from": "silke@mail.example",
+  "name": "Silke Hermans",
+  "date": "2026-01-26T11:21:00",
+  "subject": "order",
+  "body": "Dag,\n\nGraag een single course voor Silke Hermans.\n\nMvg\nSilke\n\n(it is for the course about RAG on your own documents)"
+ },
+ {
+  "from": "j.bakker@example.com",
+  "name": "Jesse Bakker",
+  "date": "2026-01-27T15:11:00",
+  "subject": "Order: monthly subscription",
+  "body": "Dear LoopCasts,\n\nI would like to order a monthly subscription.\n\nName: Jesse Bakker\nE-mail: j.bakker@example.com\n\nKind regards,\nJesse Bakker"
+ },
+ {
+  "from": "e.van.damme@mintworks.example",
+  "name": "Eline Van Damme",
+  "date": "2026-01-27T19:54:00",
+  "subject": "Order: team licence",
+  "body": "hi, team licence please. Eline Van Damme, Mintworks BV (BE0772.682.997)"
+ },
+ {
+  "from": "emma.coppens@example.com",
+  "name": "Emma Coppens",
+  "date": "2026-01-28T09:20:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dear LoopCasts,\n\nI would like to order a yearly subscription.\n\nName: Emma Coppens\nE-mail: emma.coppens@example.com\n\nKind regards,\nEmma Coppens"
+ },
+ {
+  "from": "jonas.schneider@schneider-studio.example",
+  "name": "Jonas Schneider",
+  "date": "2026-01-30T15:20:00",
+  "subject": "Bestelling",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the single course for our company Schneider Studio GmbH. How does it work, do I get an invoice first?\n\nThanks!\nJonas\n\nSent from my iPhone\n\n(it is for the course about GitHub Actions in practice VAT nr asked 30/1)"
+ },
+ {
+  "from": "t.jacobs@example.com",
+  "name": "Thomas Jacobs",
+  "date": "2026-01-31T10:43:00",
+  "subject": "order",
+  "body": "Dag,\n\nGraag een jaarabonnement voor Thomas Jacobs.\n\nMvg\nThomas"
+ },
+ {
+  "from": "anouk.pauwels@mail.example",
+  "name": "Anouk Pauwels",
+  "date": "2026-01-31T06:01:00",
+  "subject": "question + order",
+  "body": "Dear LoopCasts,\n\nI would like to order a yearly subscription.\n\nName: Anouk Pauwels\nE-mail: anouk.pauwels@mail.example\n\nKind regards,\nAnouk Pauwels"
+ },
+ {
+  "from": "iris.bakker@fluxbase.example",
+  "name": "Iris Bakker",
+  "date": "2026-02-01T18:20:00",
+  "subject": "Order: team licence",
+  "body": "hi, team licence please. Iris Bakker, Fluxbase B.V. (NL656167204B01)"
+ },
+ {
+  "from": "h.smets@mail.example",
+  "name": "Hannelore Smets",
+  "date": "2026-02-02T14:53:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dear LoopCasts,\n\nI would like to order a yearly subscription.\n\nName: Hannelore Smets\nE-mail: h.smets@mail.example\n\nKind regards,\nHannelore Smets"
+ },
+ {
+  "from": "s.michiels@example.com",
+  "name": "Sarah Michiels",
+  "date": "2026-02-02T22:06:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dear LoopCasts,\n\nI would like to order a yearly subscription.\n\nName: Sarah Michiels\nE-mail: s.michiels@example.com\n\nKind regards,\nSarah Michiels"
+ },
+ {
+  "from": "nina.lambert@novabase.example",
+  "name": "Nina Lambert",
+  "date": "2026-02-03T06:31:00",
+  "subject": "Order: team licence",
+  "body": "hi, team licence please. Nina Lambert, Novabase BV (be0165897161)"
+ },
+ {
+  "from": "r.van.dijk@van-dijk-digital.example",
+  "name": "Roos van Dijk",
+  "date": "2026-02-03T16:05:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dear LoopCasts,\n\nI would like to order a yearly subscription.\n\nName: Roos van Dijk\nE-mail: r.van.dijk@van-dijk-digital.example\nCompany: van Dijk Digital BV\nVAT: NL872797285B01\nCountry: NL\n\nKind regards,\nRoos van Dijk"
+ },
+ {
+  "from": "s.de.backer@example.com",
+  "name": "Silke De Backer",
+  "date": "2026-02-03T21:24:00",
+  "subject": "question + order",
+  "body": "Dag,\n\nGraag een jaarabonnement voor Silke De Backer.\n\nMvg\nSilke"
+ },
+ {
+  "from": "jesse.brouwer@post.example",
+  "name": "Jesse Brouwer",
+  "date": "2026-02-03T11:09:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dear LoopCasts,\n\nI would like to order a yearly subscription.\n\nName: Jesse Brouwer\nE-mail: jesse.brouwer@post.example\n\nKind regards,\nJesse Brouwer"
+ },
+ {
+  "from": "l.jansen@jansen-automatisering.example",
+  "name": "Luuk Jansen",
+  "date": "2026-02-06T11:03:00",
+  "subject": "Order: yearly subscription",
+  "body": "hi, yearly subscription please. Luuk Jansen, Jansen Automatisering VOF"
+ },
+ {
+  "from": "jonas.desmet@mail.example",
+  "name": "Jonas Desmet",
+  "date": "2026-02-06T14:34:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dag,\n\nGraag een jaarabonnement voor Jonas Desmet.\n\nMvg\nJonas"
+ },
+ {
+  "from": "lucas@mail.example",
+  "name": "Lucas Pauwels",
+  "date": "2026-02-06T11:57:00",
+  "subject": "Order: yearly subscription",
+  "body": "hi, yearly subscription please. Lucas Pauwels"
+ },
+ {
+  "from": "femke@brouwer-labs.example",
+  "name": "Femke Brouwer",
+  "date": "2026-02-09T12:33:00",
+  "subject": "(no subject)",
+  "body": "hi, single course please. Femke Brouwer, Brouwer Labs BV (NL774737335B01)\n\n(it is for the course about RAG on your own documents)"
+ },
+ {
+  "from": "n.coppens@coppens-cloud.example",
+  "name": "Nina Coppens",
+  "date": "2026-02-10T10:53:00",
+  "subject": "Order: yearly subscription",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the yearly subscription for our company Coppens Cloud BV. How does it work, do I get an invoice first? Our VAT number is BE0217.667.380.\n\nThanks!\nNina\n\nSent from my iPhone"
+ },
+ {
+  "from": "sarah57@cools-insights.example",
+  "name": "Sarah Cools",
+  "date": "2026-02-11T20:58:00",
+  "subject": "Bestelling",
+  "body": "Dear LoopCasts,\n\nI would like to order a yearly subscription.\n\nName: Sarah Cools\nE-mail: sarah57@cools-insights.example\nCompany: Cools Insights BV\nVAT: BE0087.605.003\nCountry: BE\n\nKind regards,\nSarah Cools"
+ },
+ {
+  "from": "m.claes@fluxstack.example",
+  "name": "Mathias Claes",
+  "date": "2026-02-11T20:14:00",
+  "subject": "Order: yearly subscription",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the yearly subscription for our company Fluxstack VOF. How does it work, do I get an invoice first?\n\nThanks!\nMathias\n\nSent from my iPhone"
+ },
+ {
+  "from": "f.vos@vos-consulting.example",
+  "name": "Femke Vos",
+  "date": "2026-02-15T12:58:00",
+  "subject": "Order: team licence",
+  "body": "Dag,\n\nGraag een team licence voor Femke Vos (Vos Consulting BV, btw NL998024460B01).\n\nMvg\nFemke"
+ },
+ {
+  "from": "femke72@post.example",
+  "name": "Femke El Khatib",
+  "date": "2026-02-16T08:31:00",
+  "subject": "(no subject)",
+  "body": "hi, monthly subscription please. Femke El Khatib"
+ },
+ {
+  "from": "a.smets@example.com",
+  "name": "Anouk Smets",
+  "date": "2026-02-17T20:14:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dear LoopCasts,\n\nI would like to order a yearly subscription.\n\nName: Anouk Smets\nE-mail: a.smets@example.com\n\nKind regards,\nAnouk Smets"
+ },
+ {
+  "from": "tine23@mail.example",
+  "name": "Tine Mertens",
+  "date": "2026-02-17T14:19:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dag,\n\nGraag een monthly subscription voor Tine Mertens.\n\nMvg\nTine"
+ },
+ {
+  "from": "a.hendrickx@example.com",
+  "name": "Arne Hendrickx",
+  "date": "2026-02-18T18:27:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dear LoopCasts,\n\nI would like to order a yearly subscription.\n\nName: Arne Hendrickx\nE-mail: a.hendrickx@example.com\n\nKind regards,\nArne Hendrickx"
+ },
+ {
+  "from": "j.garnier@tandemstack.example",
+  "name": "Julien Garnier",
+  "date": "2026-02-18T18:45:00",
+  "subject": "Order: monthly subscription",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the monthly subscription for our company Tandemstack SAS. How does it work, do I get an invoice first? Our VAT number is FR73090291326.\n\nThanks!\nJulien\n\nSent from my iPhone"
+ },
+ {
+  "from": "hanne@coppens-solutions.example",
+  "name": "Hanne Coppens",
+  "date": "2026-02-19T21:09:00",
+  "subject": "Order: monthly subscription",
+  "body": "hi, monthly subscription please. Hanne Coppens, Coppens Solutions BV (BE 0264 963 772)"
+ },
+ {
+  "from": "liam@orbitworks.example",
+  "name": "Liam García",
+  "date": "2026-02-24T18:26:00",
+  "subject": "Order: monthly subscription",
+  "body": "Dear LoopCasts,\n\nI would like to order a monthly subscription.\n\nName: Liam García\nE-mail: liam@orbitworks.example\nCompany: Orbitworks SRL\nVAT: IT81409880940\nCountry: IT\n\nKind regards,\nLiam García"
+ },
+ {
+  "from": "charlotte.desmet@pixelflow.example",
+  "name": "Charlotte Desmet",
+  "date": "2026-02-25T16:42:00",
+  "subject": "question + order",
+  "body": "Dear LoopCasts,\n\nI would like to order a single course.\n\nName: Charlotte Desmet\nE-mail: charlotte.desmet@pixelflow.example\nCompany: Pixelflow Comm.V\nVAT: be0094727510\nCountry: BE\n\nKind regards,\nCharlotte Desmet\n\n(it is for the course about RAG on your own documents)"
+ },
+ {
+  "from": "fatima6@verhaegen-cloud.example",
+  "name": "Fatima Verhaegen",
+  "date": "2026-02-26T11:19:00",
+  "subject": "Order: monthly subscription",
+  "body": "hi, monthly subscription please. Fatima Verhaegen, Verhaegen Cloud NV (be0153220589)"
+ },
+ {
+  "from": "k.murphy@mail.example",
+  "name": "Kasia Murphy",
+  "date": "2026-02-27T08:20:00",
+  "subject": "(no subject)",
+  "body": "Dag,\n\nGraag een jaarabonnement voor Kasia Murphy.\n\nMvg\nKasia"
+ },
+ {
+  "from": "s.vandenberghe@fluxwise.example",
+  "name": "Simon Vandenberghe",
+  "date": "2026-02-27T09:40:00",
+  "subject": "Order: yearly subscription",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the yearly subscription for our company Fluxwise NV. How does it work, do I get an invoice first? Our VAT number is BE0278.709.417.\n\nThanks!\nSimon\n\nSent from my iPhone"
+ },
+ {
+  "from": "e.bernard@example.com",
+  "name": "Emma Bernard",
+  "date": "2026-03-01T10:49:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dear LoopCasts,\n\nI would like to order a yearly subscription.\n\nName: Emma Bernard\nE-mail: e.bernard@example.com\n\nKind regards,\nEmma Bernard"
+ },
+ {
+  "from": "t.visser@post.example",
+  "name": "Thijs Visser",
+  "date": "2026-03-01T15:41:00",
+  "subject": "Order: single course",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the single course. How does it work, do I get an invoice first?\n\nThanks!\nThijs\n\nSent from my iPhone\n\n(it is for the course about prompt engineering for workflows)"
+ },
+ {
+  "from": "m.brown@brown-software.example",
+  "name": "Marco Brown",
+  "date": "2026-03-02T09:14:00",
+  "subject": "question + order",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the yearly subscription for our company Brown Software SL. How does it work, do I get an invoice first? Our VAT number is ESB76375787.\n\nThanks!\nMarco\n\nSent from my iPhone"
+ },
+ {
+  "from": "katrien.declercq@fluxflow.example",
+  "name": "Katrien Declercq",
+  "date": "2026-03-03T11:46:00",
+  "subject": "question + order",
+  "body": "Dear LoopCasts,\n\nI would like to order a team licence.\n\nName: Katrien Declercq\nE-mail: katrien.declercq@fluxflow.example\nCompany: Fluxflow BV\nVAT: be0410805994\nCountry: BE\n\nKind regards,\nKatrien Declercq"
+ },
+ {
+  "from": "yusuf@mail.example",
+  "name": "Yusuf De Backer",
+  "date": "2026-03-03T22:57:00",
+  "subject": "Bestelling",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the monthly subscription. How does it work, do I get an invoice first?\n\nThanks!\nYusuf\n\nSent from my iPhone"
+ },
+ {
+  "from": "katrien.lemmens@lemmens-data.example",
+  "name": "Katrien Lemmens",
+  "date": "2026-03-04T17:14:00",
+  "subject": "Order: team licence",
+  "body": "Dear LoopCasts,\n\nI would like to order a team licence.\n\nName: Katrien Lemmens\nE-mail: katrien.lemmens@lemmens-data.example\nCompany: Lemmens Data NV\nVAT: BE0820749842\nCountry: BE\n\nKind regards,\nKatrien Lemmens"
+ },
+ {
+  "from": "emma.de.clercq@example.com",
+  "name": "Emma De Clercq",
+  "date": "2026-03-06T22:11:00",
+  "subject": "question + order",
+  "body": "Dag,\n\nGraag een jaarabonnement voor Emma De Clercq.\n\nMvg\nEmma"
+ },
+ {
+  "from": "eline77@example.com",
+  "name": "Eline Stevens",
+  "date": "2026-03-06T07:33:00",
+  "subject": "Bestelling",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the yearly subscription. How does it work, do I get an invoice first?\n\nThanks!\nEline\n\nSent from my iPhone"
+ },
+ {
+  "from": "m.goossens@mail.example",
+  "name": "Mathias Goossens",
+  "date": "2026-03-07T17:16:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dag,\n\nGraag een jaarabonnement voor Mathias Goossens.\n\nMvg\nMathias"
+ },
+ {
+  "from": "eline77@example.com",
+  "name": "Eline Stevens",
+  "date": "2026-03-09T12:46:00",
+  "subject": "Bestelling",
+  "body": "Dear LoopCasts,\n\nI would like to order a yearly subscription.\n\nName: Eline Stevens\nE-mail: eline77@example.com\n\nKind regards,\nEline Stevens"
+ },
+ {
+  "from": "b.peeters@example.com",
+  "name": "Bram Peeters",
+  "date": "2026-03-09T17:10:00",
+  "subject": "order",
+  "body": "Dag,\n\nGraag een monthly subscription voor Bram Peeters.\n\nMvg\nBram"
+ },
+ {
+  "from": "noah.garcia@garcia-digital.example",
+  "name": "Noah García",
+  "date": "2026-03-09T13:43:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dear LoopCasts,\n\nI would like to order a yearly subscription.\n\nName: Noah García\nE-mail: noah.garcia@garcia-digital.example\nCompany: García Digital SRL\nVAT: IT72951873982\nCountry: IT\n\nKind regards,\nNoah García"
+ },
+ {
+  "from": "t.segers@segers-solutions.example",
+  "name": "Tine Segers",
+  "date": "2026-03-09T13:59:00",
+  "subject": "Order: yearly subscription",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the yearly subscription for our company Segers Solutions BV. How does it work, do I get an invoice first? Our VAT number is BE 0362 590 861.\n\nThanks!\nTine\n\nSent from my iPhone"
+ },
+ {
+  "from": "simon@example.com",
+  "name": "Simon De Smet",
+  "date": "2026-03-12T06:06:00",
+  "subject": "question + order",
+  "body": "Dear LoopCasts,\n\nI would like to order a single course.\n\nName: Simon De Smet\nE-mail: simon@example.com\n\nKind regards,\nSimon De Smet\n\n(it is for the course about webhooks)"
+ },
+ {
+  "from": "hugo53@example.com",
+  "name": "Hugo Martin",
+  "date": "2026-03-13T10:47:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dag,\n\nGraag een jaarabonnement voor Hugo Martin.\n\nMvg\nHugo"
+ },
+ {
+  "from": "l.hermans@mail.example",
+  "name": "Lucas Hermans",
+  "date": "2026-03-16T19:05:00",
+  "subject": "(no subject)",
+  "body": "Dear LoopCasts,\n\nI would like to order a yearly subscription.\n\nName: Lucas Hermans\nE-mail: l.hermans@mail.example\n\nKind regards,\nLucas Hermans"
+ },
+ {
+  "from": "maximilian82@example.com",
+  "name": "Maximilian Fischer",
+  "date": "2026-03-15T22:41:00",
+  "subject": "Order: single course",
+  "body": "hi, single course please. Maximilian Fischer\n\n(it is for the course about RAG on your own documents)"
+ },
+ {
+  "from": "thijs@example.com",
+  "name": "Thijs van Dijk",
+  "date": "2026-03-15T17:24:00",
+  "subject": "(no subject)",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the monthly subscription. How does it work, do I get an invoice first?\n\nThanks!\nThijs\n\nSent from my iPhone"
+ },
+ {
+  "from": "kevin29@mail.example",
+  "name": "Kevin Yilmaz",
+  "date": "2026-03-18T13:24:00",
+  "subject": "Order: yearly subscription",
+  "body": "hi, yearly subscription please. Kevin Yilmaz"
+ },
+ {
+  "from": "kasia53@example.com",
+  "name": "Kasia Johnson",
+  "date": "2026-03-20T09:38:00",
+  "subject": "(no subject)",
+  "body": "Dear LoopCasts,\n\nI would like to order a yearly subscription.\n\nName: Kasia Johnson\nE-mail: kasia53@example.com\n\nKind regards,\nKasia Johnson"
+ },
+ {
+  "from": "marco.murphy@example.com",
+  "name": "Marco Murphy",
+  "date": "2026-03-21T07:10:00",
+  "subject": "Order: yearly subscription",
+  "body": "hi, single course please. Marco Murphy\n\n(it is for the course about webhooks)"
+ },
+ {
+  "from": "niels@mail.example",
+  "name": "Niels Hermans",
+  "date": "2026-03-22T21:03:00",
+  "subject": "Order: single course",
+  "body": "Dear LoopCasts,\n\nI would like to order a single course.\n\nName: Niels Hermans\nE-mail: niels@mail.example\n\nKind regards,\nNiels Hermans\n\n(it is for the course about webhooks)"
+ },
+ {
+  "from": "lukas76@schneider-data.example",
+  "name": "Lukas Schneider",
+  "date": "2026-03-22T15:56:00",
+  "subject": "Order: yearly subscription",
+  "body": "hi, yearly subscription please. Lukas Schneider, Schneider Data UG (DE009040720)"
+ },
+ {
+  "from": "jan@thys-partners.example",
+  "name": "Jan Thys",
+  "date": "2026-03-25T21:38:00",
+  "subject": "(no subject)",
+  "body": "hi, monthly subscription please. Jan Thys, Thys Partners VOF (be0399466901)"
+ },
+ {
+  "from": "silke40@example.com",
+  "name": "Silke Bogaert",
+  "date": "2026-03-26T15:57:00",
+  "subject": "Order: monthly subscription",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the monthly subscription. How does it work, do I get an invoice first?\n\nThanks!\nSilke\n\nSent from my iPhone"
+ },
+ {
+  "from": "sarah.garcia@example.com",
+  "name": "Sarah García",
+  "date": "2026-03-27T07:52:00",
+  "subject": "(no subject)",
+  "body": "hi, single course please. Sarah García\n\n(it is for the course about cron and schedulers)"
+ },
+ {
+  "from": "w.de.smet@de-smet-software.example",
+  "name": "Wim De Smet",
+  "date": "2026-03-27T21:30:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dear LoopCasts,\n\nI would like to order a team licence.\n\nName: Wim De Smet\nE-mail: w.de.smet@de-smet-software.example\n\nKind regards,\nWim De Smet"
+ },
+ {
+  "from": "robin@orbitflow.example",
+  "name": "Robin Michiels",
+  "date": "2026-03-27T21:49:00",
+  "subject": "Order: team licence",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the team licence for our company Orbitflow VOF. How does it work, do I get an invoice first? Our VAT number is be0263653810.\n\nThanks!\nRobin\n\nSent from my iPhone"
+ },
+ {
+  "from": "silke40@example.com",
+  "name": "Silke Bogaert",
+  "date": "2026-03-26T12:26:00",
+  "subject": "Order: monthly subscription",
+  "body": "hi, monthly subscription please. Silke Bogaert"
+ },
+ {
+  "from": "sven.jansen@post.example",
+  "name": "Sven Jansen",
+  "date": "2026-03-27T12:39:00",
+  "subject": "Order: yearly subscription",
+  "body": "Hello!\n\nA colleague told me about your n8n courses and I watched the free videos last weekend, really good stuff. I'd like to get the yearly subscription. How does it work, do I get an invoice first?\n\nThanks!\nSven\n\nSent from my iPhone"
+ },
+ {
+  "from": "maarten.mulder@novawise.example",
+  "name": "Maarten Mulder",
+  "date": "2026-03-28T20:28:00",
+  "subject": "Order: monthly subscription",
+  "body": "Dear LoopCasts,\n\nI would like to order a monthly subscription.\n\nName: Maarten Mulder\nE-mail: maarten.mulder@novawise.example\nCompany: Novawise B.V.\nVAT: NL699013943B01\nCountry: NL\n\nKind regards,\nMaarten Mulder"
+ },
+ {
+  "from": "tine84@example.com",
+  "name": "Tine Willems",
+  "date": "2026-03-29T08:40:00",
+  "subject": "Order: yearly subscription",
+  "body": "hi, monthly subscription please. Tine Willems"
+ },
+ {
+  "from": "bert97@example.com",
+  "name": "Bert Peeters",
+  "date": "2026-03-29T15:59:00",
+  "subject": "Order: monthly subscription",
+  "body": "Dear LoopCasts,\n\nI would like to order a monthly subscription.\n\nName: Bert Peeters\nE-mail: bert97@example.com\n\nKind regards,\nBert Peeters"
+ },
+ {
+  "from": "paul.schmidt@post.example",
+  "name": "Paul Schmidt",
+  "date": "2026-03-30T12:27:00",
+  "subject": "Order: yearly subscription",
+  "body": "Dag,\n\nGraag een jaarabonnement voor Paul Schmidt.\n\nMvg\nPaul"
+ },
+ {
+  "from": "ruben.bogaert@bogaert-studio.example",
+  "name": "Ruben Bogaert",
+  "date": "2026-03-30T10:45:00",
+  "subject": "Order: single course",
+  "body": "Dear LoopCasts,\n\nI would like to order a single course.\n\nName: Ruben Bogaert\nE-mail: ruben.bogaert@bogaert-studio.example\nCompany: Bogaert Studio VOF\nVAT: be0061828730\nCountry: BE\n\nKind regards,\nRuben Bogaert\n\n(it is for the course about n8n error handling)"
+ },
+ {
+  "from": "tine.segers@northwise.example",
+  "name": "Tine Segers",
+  "date": "2026-03-31T11:49:00",
+  "subject": "order",
+  "body": "Dag,\n\nGraag een single course voor Tine Segers (Northwise VOF, btw BE 0132 163 547).\n\nMvg\nTine\n\n(it is for the course about prompt engineering for workflows)"
+ },
+ {
+  "from": "noor.cools@cools-analytics.example",
+  "name": "Noor Cools",
+  "date": "2026-03-31T10:49:00",
+  "subject": "Order: single course",
+  "body": "Dear LoopCasts,\n\nI would like to order a single course.\n\nName: Noor Cools\nE-mail: noor.cools@cools-analytics.example\nCompany: Cools Analytics BV\nVAT: BE 0415 467 642\nCountry: BE\n\nKind regards,\nNoor Cools\n\n(it is for the course about REST APIs for data people)"
+ }
+]

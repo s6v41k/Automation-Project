@@ -1,0 +1,20 @@
+From: Niels Hermans <niels@mail.example>
+To: orders@loopcasts.example
+Subject: Order: single course
+Date: Sun, 22 Mar 2026 21:03:00 -0000
+Message-ID: <7e9b884bfc004f7abf28@mail.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Dear LoopCasts,
+
+I would like to order a single course.
+
+Name: Niels Hermans
+E-mail: niels@mail.example
+
+Kind regards,
+Niels Hermans
+
+(it is for the course about webhooks)

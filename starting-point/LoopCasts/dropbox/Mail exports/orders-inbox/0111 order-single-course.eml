@@ -1,0 +1,23 @@
+From: Noor Cools <noor.cools@cools-analytics.example>
+To: orders@loopcasts.example
+Subject: Order: single course
+Date: Tue, 31 Mar 2026 10:49:00 -0000
+Message-ID: <9549752a2a479f490b78@mail.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Dear LoopCasts,
+
+I would like to order a single course.
+
+Name: Noor Cools
+E-mail: noor.cools@cools-analytics.example
+Company: Cools Analytics BV
+VAT: BE 0415 467 642
+Country: BE
+
+Kind regards,
+Noor Cools
+
+(it is for the course about REST APIs for data people)

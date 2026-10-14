@@ -1,0 +1,31 @@
+date;name;email;company;vat_number;country;product;price_excl;invoice_nr;account_created;remark
+05/01/2026;Sofie Peeters;sofie.peeters@example.com;;;BE;Yearly subscription;149;2026-0001;red;
+05/01/2026;Jan Willems;jan@willems-data.example;Willems Data BV;BE0456.789.123;Belgium;Team licence;599;2026-0002;red;
+5-1-26;Ruben de Vries;ruben@devries.example ;De Vries Analytics;NL853746291B01;NL;Yearly subscription;149;2026-0003;red;
+2026-01-06;Emma Dubois;emma.dubois@example.com;;;FR;Single course;39;2026-0004;red;course: n8n basics
+06/01/2026;Thomas Maes;T.MAES@EXAMPLE.COM;;;België;Yearly subscription;€ 149;2026-0005;red;
+06/01/2026;Lukas Schmidt;lukas@schmidt-it.example;Schmidt IT GmbH;;DE;Team licence;599;waiting;;VAT nr asked 6/1, no answer yet
+6 jan;Nina Claes;nina.claes@example.com;;;belgie;Monthly subscription;15;2026-0006;;
+07/01/2026;Pieter-Jan Goossens;pj@goossens.example;Goossens Consulting;BE0789.456.321;BE;Yearly subscription;149,00;2026-0007;red;
+07/01/2026;Anna Kowalska;anna.k@example.com;;;PL;Yearly subscription;149;2026-0008;red;
+2026-01-07;Sofie Peeters;sofie.peeters@example.com;;;BE;Yearly subscription;149;;;also ordered via reply on newsletter?? same person
+08/01/2026;Mark Johnson;mark@johnsonlabs.example;Johnson Labs Inc;;US;Team licence;599;2026-0009;red;
+08/01/2026;Hanne Wouters;hanne.wouters@example.com;;;BE;Single course;39;2026-0010;red;course: webhooks
+08/01/2026;Bram Jacobs;bram@jacobs.example;;;Belgium;Yearly subscription;149;2026-0011;red;says he is a student, discount? ask M.
+9/1/2026;Fatima Benali;fatima@benali-consult.example;Benali Consult;BE0567.123.987;BE;Yearly subscription;149;2026-0012;red;
+09/01/2026;Koen Van Damme;koen.vandamme@example.com;;;BE;Monthly subscription;15;2026-0013;red;
+12/01/2026;Ilse Mertens;ilse@mertens.example;Mertens & Co;BE 0678 234 519;BE;Team licence;599;2026-0014;;names for seats follow later
+12/01/2026;Daan Bakker;daan@bakker.example;Bakker Automatisering;NL861234567B01;Nederland;Yearly subscription;149;2026-0015;;
+2026-01-12;Julie Lambert;julie.lambert@example.com;;;BE;Yearly subscription;149;2026-0016;;
+13/01/2026;Wout Hermans;wout.hermans@example,com;;;BE;Single course;39;2026-0017;;course: AI agents
+13/01/2026;Charlotte Martin;c.martin@martin-sarl.example;Martin SARL;FR40303265045;France;Yearly subscription;149;2026-0018;;
+13 jan;Stijn De Backer;stijn@debacker.example;;;BE;Yearly subscription;149;2026-0019;;phoned Marieke
+14/01/2026;Laura Jansen;laura.jansen@example.com;;;Netherlands;Monthly subscription;15;2026-0020;;
+14/01/2026;Tim Vermeulen;tim@vermeulen.example;Vermeulen BV;BE0890.345.672;BE;Yearly subscription;149;2026-0021;;PO number 45-2291 must be on invoice
+01/15/2026;Sarah O'Brien;sarah@obrien.example;;;IE;Yearly subscription;149;2026-0022;;
+15/01/2026;Jeroen Smets;jeroen.smets@example.com;;;BE;Yearly subscription;149;2026-0024;;
+15/01/2026;Elke Desmet;elke@desmet.example;Desmet Data;BE0345.678.912;BE;Single course;39;2026-0025;;course: n8n basics
+16/01/2026;Matteo Rossi;matteo@rossi.example;Rossi SRL;IT12345678901;IT;Team licence;599;2026-0026;;
+16/01/2026;Lien Pauwels; lien.pauwels@example.com;;;BE;Yearly subscription;149;2026-0027;;
+16/01/2026;Niels Hendrickx;niels@hendrickx.example;;;BE;Monthly subscription;15,00;2026-0028;;
+16/01/2026;Amber Michiels;amber.michiels@example.com;;;BE;Yearly subscription;149;2026-0029;;

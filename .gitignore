@@ -1,0 +1,34 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Node / Vue
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vite/
+
+# Docker
+*.log
+
+# n8n local data (bind-mounted volume, not seed data)
+n8n/data/
+
+# OS / editor junk
+.DS_Store
+__MACOSX/
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json

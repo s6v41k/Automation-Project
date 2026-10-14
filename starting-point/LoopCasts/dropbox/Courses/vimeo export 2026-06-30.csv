@@ -1,0 +1,600 @@
+video_id,title,folder,duration_seconds,privacy,embed_domains,has_description,has_chapters,has_captions,uploaded
+700000000,Make.com for n8n people — 01,Make.com for n8n people,870,disable,loopcasts.example,True,False,False,2025-09-10
+700000137,Make.com for n8n people — 02,Make.com for n8n people,384,disable,loopcasts.example,True,True,False,2025-09-13
+700000274,Make.com for n8n people — 03,Make.com for n8n people,805,disable,loopcasts.example,True,False,False,2025-09-16
+700000411,Make.com for n8n people — 04,Make.com for n8n people,913,disable,loopcasts.example,True,False,False,2025-09-19
+700000548,Make.com for n8n people — 05,Make.com for n8n people,625,disable,loopcasts.example,False,True,False,2025-09-22
+700000685,Make.com for n8n people — 06,Make.com for n8n people,662,disable,loopcasts.example,True,True,False,2025-09-25
+700000822,Make.com for n8n people — 07,Make.com for n8n people,904,disable,loopcasts.example,True,True,False,2025-09-28
+700000959,Make.com for n8n people — 08,Make.com for n8n people,645,disable,loopcasts.example,False,True,False,2025-10-01
+700001096,Make.com for n8n people — 09,Make.com for n8n people,939,disable,loopcasts.example,True,True,False,2025-10-04
+700001233,Make.com for n8n people — 10,Make.com for n8n people,736,disable,loopcasts.example,False,False,False,2025-10-07
+700001370,Make.com for n8n people — 11,Make.com for n8n people,1091,disable,loopcasts.example,True,False,False,2025-10-10
+700001507,Google Sheets as a database (and why not) — 01,Google Sheets as a database (and why not),946,disable,loopcasts.example,True,True,False,2019-08-12
+700001644,Google Sheets as a database (and why not) — 02,Google Sheets as a database (and why not),989,disable,loopcasts.example,True,True,False,2019-08-15
+700001781,Google Sheets as a database (and why not) — 03,Google Sheets as a database (and why not),1081,disable,loopcasts.example,True,True,False,2019-08-18
+700001918,Google Sheets as a database (and why not) — 04,Google Sheets as a database (and why not),635,disable,loopcasts.example,True,True,False,2019-08-21
+700002055,google sheets as a database (and why not) - 05,Google Sheets as a database (and why not),373,disable,loopcasts.example,True,False,False,2019-08-24
+700002192,Google Sheets as a database (and why not) — 06,Google Sheets as a database (and why not),683,disable,loopcasts.example,True,False,False,2019-08-27
+700002329,Google Sheets as a database (and why not) — 07,Google Sheets as a database (and why not),697,disable,loopcasts.example,True,False,False,2019-08-30
+700002466,Google Sheets as a database (and why not) — 08,Google Sheets as a database (and why not),1125,disable,loopcasts.example,True,True,False,2019-09-02
+700002603,Google Sheets as a database (and why not) — 09,Google Sheets as a database (and why not),841,disable,loopcasts.example,True,True,False,2019-09-05
+700002740,Google Sheets as a database (and why not) — 10,Google Sheets as a database (and why not),565,disable,loopcasts.example,True,True,False,2019-09-08
+700002877,Google Sheets as a database (and why not) — 11,Google Sheets as a database (and why not),898,disable,loopcasts.example,True,False,False,2019-09-11
+700003014,Google Sheets as a database (and why not) — 12,Google Sheets as a database (and why not),604,disable,loopcasts.example,True,False,False,2019-09-14
+700003151,Google Sheets as a database (and why not) — 13,Google Sheets as a database (and why not),675,disable,loopcasts.example,True,True,False,2019-09-17
+700003288,Google Sheets as a database (and why not) — 14,Google Sheets as a database (and why not),925,disable,loopcasts.example,False,True,False,2019-09-20
+700003425,Slack bots with n8n — 01,Slack bots with n8n,818,disable,loopcasts.example,True,True,False,2019-02-06
+700003562,Slack bots with n8n — 02,Slack bots with n8n,1075,disable,loopcasts.example,True,False,False,2019-02-09
+700003699,Slack bots with n8n — 03,Slack bots with n8n,468,disable,loopcasts.example,False,False,False,2019-02-12
+700003836,Slack bots with n8n — 04,Slack bots with n8n,1102,disable,loopcasts.example,True,True,False,2019-02-15
+700003973,slack bots with n8n - 05,Slack bots with n8n,381,disable,loopcasts.example,True,False,False,2019-02-18
+700004110,Slack bots with n8n — 06,Slack bots with n8n,1189,disable,loopcasts.example,False,False,False,2019-02-21
+700004247,Slack bots with n8n — 07,Slack bots with n8n,904,disable,loopcasts.example,True,False,False,2019-02-24
+700004384,Slack bots with n8n — 08,Slack bots with n8n,425,disable,loopcasts.example,True,False,False,2019-02-27
+700004521,Airtable automations — 01,Airtable automations,659,disable,loopcasts.example,True,True,False,2026-06-23
+700004658,Airtable automations — 02,Airtable automations,1199,disable,loopcasts.example,True,False,False,2026-06-26
+700004795,Airtable automations — 03,Airtable automations,438,disable,loopcasts.example,True,False,False,2026-06-29
+700004932,Airtable automations — 04,Airtable automations,772,disable,loopcasts.example,True,False,False,2026-07-02
+700005069,Airtable automations — 05,Airtable automations,800,disable,loopcasts.example,True,False,False,2026-07-05
+700005206,Airtable automations — 06,Airtable automations,473,disable,loopcasts.example,True,False,False,2026-07-08
+700005343,OAuth2 without tears — 01,OAuth2 without tears,890,disable,loopcasts.example,True,False,False,2026-06-23
+700005480,OAuth2 without tears — 02,OAuth2 without tears,1050,disable,loopcasts.example,True,False,False,2026-06-26
+700005617,OAuth2 without tears — 03,OAuth2 without tears,988,disable,loopcasts.example,False,False,False,2026-06-29
+700005754,OAuth2 without tears — 04,OAuth2 without tears,880,disable,loopcasts.example,False,False,False,2026-07-02
+700005891,OAuth2 without tears — 05,OAuth2 without tears,1193,disable,loopcasts.example,False,False,False,2026-07-05
+700006028,OAuth2 without tears — 06,OAuth2 without tears,400,disable,loopcasts.example,False,True,False,2026-07-08
+700006165,OAuth2 without tears — 07,OAuth2 without tears,951,disable,loopcasts.example,True,True,False,2026-07-11
+700006302,OAuth2 without tears — 08,OAuth2 without tears,1092,disable,loopcasts.example,True,False,False,2026-07-14
+700006439,OAuth2 without tears — 09,OAuth2 without tears,423,disable,loopcasts.example,True,True,False,2026-07-17
+700006576,OAuth2 without tears — 10,OAuth2 without tears,806,disable,loopcasts.example,True,True,False,2026-07-20
+700006713,OAuth2 without tears — 11,OAuth2 without tears,1186,disable,loopcasts.example,False,False,False,2026-07-23
+700006850,OAuth2 without tears — 12,OAuth2 without tears,1097,disable,loopcasts.example,False,False,False,2026-07-26
+700006987,JSON for the impatient — 01,JSON for the impatient,853,disable,loopcasts.example,False,True,False,2021-06-11
+700007124,JSON for the impatient — 02,JSON for the impatient,912,disable,loopcasts.example,True,False,False,2021-06-14
+700007261,JSON for the impatient — 03,JSON for the impatient,824,disable,loopcasts.example,True,True,False,2021-06-17
+700007398,JSON for the impatient — 04,JSON for the impatient,501,disable,loopcasts.example,False,True,False,2021-06-20
+700007535,JSON for the impatient — 05,JSON for the impatient,386,disable,loopcasts.example,True,False,False,2021-06-23
+700007672,Regex you will actually use — 01,Regex you will actually use,970,disable,loopcasts.example,True,True,False,2023-07-20
+700007809,Regex you will actually use — 02,Regex you will actually use,750,disable,loopcasts.example,True,True,False,2023-07-23
+700007946,Regex you will actually use — 03,Regex you will actually use,671,disable,loopcasts.example,True,True,False,2023-07-26
+700008083,Regex you will actually use — 04,Regex you will actually use,629,disable,loopcasts.example,False,False,False,2023-07-29
+700008220,Regex you will actually use — 05,Regex you will actually use,956,disable,loopcasts.example,True,True,False,2023-08-01
+700008357,Regex you will actually use — 06,Regex you will actually use,1132,disable,loopcasts.example,True,True,False,2023-08-04
+700008494,Regex you will actually use — 07,Regex you will actually use,967,disable,loopcasts.example,True,True,False,2023-08-07
+700008631,Regex you will actually use — 08,Regex you will actually use,365,disable,loopcasts.example,True,True,False,2023-08-10
+700008768,Regex you will actually use — 09,Regex you will actually use,1130,disable,loopcasts.example,False,False,False,2023-08-13
+700008905,Docker for automation people — 01,Docker for automation people,748,disable,loopcasts.example,False,True,False,2026-02-14
+700009042,Docker for automation people — 02,Docker for automation people,549,disable,loopcasts.example,True,True,False,2026-02-17
+700009179,Docker for automation people — 03,Docker for automation people,399,disable,loopcasts.example,True,True,False,2026-02-20
+700009316,Docker for automation people — 04,Docker for automation people,875,disable,loopcasts.example,True,True,False,2026-02-23
+700009453,Docker for automation people — 05,Docker for automation people,573,disable,loopcasts.example,True,True,False,2026-02-26
+700009590,Docker for automation people — 06,Docker for automation people,614,disable,loopcasts.example,True,True,False,2026-03-01
+700009727,Docker for automation people — 07,Docker for automation people,1034,disable,loopcasts.example,True,False,False,2026-03-04
+700009864,Docker for automation people — 08,Docker for automation people,744,anybody,,True,True,False,2026-03-07
+700010001,Docker for automation people — 09,Docker for automation people,496,disable,loopcasts.example,True,True,False,2026-03-10
+700010138,Docker for automation people — 10,Docker for automation people,736,disable,loopcasts.example,False,True,False,2026-03-13
+700010275,Docker for automation people — 11,Docker for automation people,901,disable,loopcasts.example,True,True,False,2026-03-16
+700010412,Python scripts in your workflow — 01,Python scripts in your workflow,490,disable,loopcasts.example,True,False,False,2019-10-13
+700010549,Python scripts in your workflow — 02,Python scripts in your workflow,1075,disable,loopcasts.example,True,True,False,2019-10-16
+700010686,Python scripts in your workflow — 03,Python scripts in your workflow,798,disable,loopcasts.example,True,False,False,2019-10-19
+700010823,Python scripts in your workflow — 04,Python scripts in your workflow,895,disable,loopcasts.example,True,False,False,2019-10-22
+700010960,Python scripts in your workflow — 05,Python scripts in your workflow,978,disable,loopcasts.example,False,True,False,2019-10-25
+700011097,Python scripts in your workflow — 06,Python scripts in your workflow,1069,disable,loopcasts.example,True,True,False,2019-10-28
+700011234,Scraping politely — 01,Scraping politely,853,disable,loopcasts.example,True,True,False,2023-10-13
+700011371,Scraping politely — 02,Scraping politely,988,disable,loopcasts.example,True,False,False,2023-10-16
+700011508,Scraping politely — 03,Scraping politely,1179,disable,loopcasts.example,True,True,False,2023-10-19
+700011645,Scraping politely — 04,Scraping politely,919,disable,loopcasts.example,True,False,False,2023-10-22
+700011782,scraping politely - 05,Scraping politely,926,disable,loopcasts.example,True,False,False,2023-10-25
+700011919,Scraping politely — 06,Scraping politely,861,disable,loopcasts.example,False,True,False,2023-10-28
+700012056,Scraping politely — 07,Scraping politely,650,disable,loopcasts.example,False,True,False,2023-10-31
+700012193,Scraping politely — 08,Scraping politely,840,disable,loopcasts.example,True,False,False,2023-11-03
+700012330,Scraping politely — 09,Scraping politely,658,disable,loopcasts.example,True,False,False,2023-11-06
+700012467,Scraping politely — 10,Scraping politely,1011,disable,loopcasts.example,True,False,False,2023-11-09
+700012604,Scraping politely — 11,Scraping politely,860,disable,loopcasts.example,True,False,False,2023-11-12
+700012741,Scraping politely — 12,Scraping politely,409,disable,loopcasts.example,True,False,False,2023-11-15
+700012878,Scraping politely — 13,Scraping politely,730,disable,loopcasts.example,True,False,False,2023-11-18
+700013015,PDF generation — 01,PDF generation,892,disable,loopcasts.example,True,False,False,2023-04-05
+700013152,PDF generation — 02,PDF generation,728,disable,loopcasts.example,True,False,False,2023-04-08
+700013289,PDF generation — 03,PDF generation,748,disable,loopcasts.example,False,True,False,2023-04-11
+700013426,PDF generation — 04,PDF generation,689,disable,loopcasts.example,True,False,False,2023-04-14
+700013563,PDF generation — 05,PDF generation,694,disable,loopcasts.example,True,False,False,2023-04-17
+700013700,E-mail parsing — 01,E-mail parsing,1121,disable,loopcasts.example,True,False,False,2023-05-05
+700013837,E-mail parsing — 02,E-mail parsing,833,disable,loopcasts.example,True,True,False,2023-05-08
+700013974,E-mail parsing — 03,E-mail parsing,380,disable,loopcasts.example,True,False,False,2023-05-11
+700014111,E-mail parsing — 04,E-mail parsing,930,disable,loopcasts.example,False,True,False,2023-05-14
+700014248,E-mail parsing — 05,E-mail parsing,761,disable,loopcasts.example,False,True,False,2023-05-17
+700014385,E-mail parsing — 06,E-mail parsing,543,disable,loopcasts.example,True,True,False,2023-05-20
+700014522,E-mail parsing — 07,E-mail parsing,584,disable,loopcasts.example,False,True,False,2023-05-23
+700014659,E-mail parsing — 08,E-mail parsing,681,disable,loopcasts.example,True,False,False,2023-05-26
+700014796,E-mail parsing — 09,E-mail parsing,931,disable,loopcasts.example,True,False,False,2023-05-29
+700014933,Stripe webhooks — 01,Stripe webhooks,806,disable,loopcasts.example,False,False,False,2020-08-02
+700015070,Stripe webhooks — 02,Stripe webhooks,1133,disable,loopcasts.example,True,True,False,2020-08-05
+700015207,stripe webhooks - 03,Stripe webhooks,1073,disable,loopcasts.example,True,False,False,2020-08-08
+700015344,Stripe webhooks — 04,Stripe webhooks,945,disable,loopcasts.example,True,False,False,2020-08-11
+700015481,Stripe webhooks — 05,Stripe webhooks,1151,disable,loopcasts.example,True,False,False,2020-08-14
+700015618,Stripe webhooks — 06,Stripe webhooks,662,disable,loopcasts.example,False,False,False,2020-08-17
+700015755,Stripe webhooks — 07,Stripe webhooks,372,disable,loopcasts.example,True,False,False,2020-08-20
+700015892,Stripe webhooks — 08,Stripe webhooks,598,disable,loopcasts.example,True,False,False,2020-08-23
+700016029,Stripe webhooks — 09,Stripe webhooks,941,disable,loopcasts.example,True,False,False,2020-08-26
+700016166,Stripe webhooks — 10,Stripe webhooks,622,disable,loopcasts.example,False,True,False,2020-08-29
+700016303,Stripe webhooks — 11,Stripe webhooks,572,disable,loopcasts.example,True,True,False,2020-09-01
+700016440,Stripe webhooks — 12,Stripe webhooks,543,disable,loopcasts.example,False,False,False,2020-09-04
+700016577,Stripe webhooks — 13,Stripe webhooks,1151,disable,loopcasts.example,True,True,False,2020-09-07
+700016714,mollie payments - 01,Mollie payments,602,disable,loopcasts.example,True,True,False,2026-03-19
+700016851,Mollie payments — 02,Mollie payments,480,disable,loopcasts.example,True,True,False,2026-03-22
+700016988,Mollie payments — 03,Mollie payments,387,disable,loopcasts.example,False,True,False,2026-03-25
+700017125,Mollie payments — 04,Mollie payments,511,disable,loopcasts.example,True,False,False,2026-03-28
+700017262,Mollie payments — 05,Mollie payments,577,disable,loopcasts.example,True,True,False,2026-03-31
+700017399,Mollie payments — 06,Mollie payments,968,disable,loopcasts.example,True,True,False,2026-04-03
+700017536,HubSpot + n8n — 01,HubSpot + n8n,958,disable,loopcasts.example,True,True,False,2025-10-14
+700017673,HubSpot + n8n — 02,HubSpot + n8n,1074,disable,loopcasts.example,True,False,False,2025-10-17
+700017810,HubSpot + n8n — 03,HubSpot + n8n,421,disable,loopcasts.example,True,False,False,2025-10-20
+700017947,HubSpot + n8n — 04,HubSpot + n8n,575,disable,loopcasts.example,True,False,False,2025-10-23
+700018084,HubSpot + n8n — 05,HubSpot + n8n,779,disable,loopcasts.example,True,True,False,2025-10-26
+700018221,HubSpot + n8n — 06,HubSpot + n8n,679,disable,loopcasts.example,True,True,False,2025-10-29
+700018358,HubSpot + n8n — 07,HubSpot + n8n,991,disable,loopcasts.example,True,True,False,2025-11-01
+700018495,HubSpot + n8n — 08,HubSpot + n8n,992,disable,loopcasts.example,True,True,False,2025-11-04
+700018632,HubSpot + n8n — 09,HubSpot + n8n,437,disable,loopcasts.example,False,False,False,2025-11-07
+700018769,notion api - 01,Notion API,429,disable,loopcasts.example,False,True,False,2026-04-11
+700018906,Notion API — 02,Notion API,888,disable,loopcasts.example,True,True,False,2026-04-14
+700019043,Notion API — 03,Notion API,913,disable,loopcasts.example,True,True,False,2026-04-17
+700019180,Notion API — 04,Notion API,484,disable,loopcasts.example,True,True,False,2026-04-20
+700019317,Notion API — 05,Notion API,814,disable,loopcasts.example,True,True,False,2026-04-23
+700019454,Notion API — 06,Notion API,396,disable,loopcasts.example,True,False,False,2026-04-26
+700019591,Notion API — 07,Notion API,715,disable,loopcasts.example,True,True,False,2026-04-29
+700019728,Telegram bots — 01,Telegram bots,1047,disable,loopcasts.example,True,True,False,2024-08-26
+700019865,Telegram bots — 02,Telegram bots,723,disable,loopcasts.example,True,True,False,2024-08-29
+700020002,Telegram bots — 03,Telegram bots,656,disable,loopcasts.example,True,False,False,2024-09-01
+700020139,Telegram bots — 04,Telegram bots,520,disable,loopcasts.example,True,True,False,2024-09-04
+700020276,Telegram bots — 05,Telegram bots,386,disable,loopcasts.example,True,False,False,2024-09-07
+700020413,Telegram bots — 06,Telegram bots,731,disable,loopcasts.example,True,True,False,2024-09-10
+700020550,Telegram bots — 07,Telegram bots,1134,disable,loopcasts.example,True,False,False,2024-09-13
+700020687,Telegram bots — 08,Telegram bots,741,disable,loopcasts.example,True,False,False,2024-09-16
+700020824,Telegram bots — 09,Telegram bots,1171,disable,loopcasts.example,True,True,False,2024-09-19
+700020961,Telegram bots — 10,Telegram bots,1136,disable,loopcasts.example,True,True,False,2024-09-22
+700021098,Telegram bots — 11,Telegram bots,653,disable,loopcasts.example,True,False,False,2024-09-25
+700021235,Telegram bots — 12,Telegram bots,916,disable,loopcasts.example,True,True,False,2024-09-28
+700021372,Telegram bots — 13,Telegram bots,861,disable,loopcasts.example,False,True,False,2024-10-01
+700021509,Telegram bots — 14,Telegram bots,1149,disable,loopcasts.example,True,True,False,2024-10-04
+700021646,Telegram bots — 15,Telegram bots,748,disable,loopcasts.example,True,False,False,2024-10-07
+700021783,Queue mode and scaling n8n — 01,Queue mode and scaling n8n,902,disable,loopcasts.example,True,False,False,2024-06-15
+700021920,Queue mode and scaling n8n — 02,Queue mode and scaling n8n,1105,disable,loopcasts.example,False,False,False,2024-06-18
+700022057,Queue mode and scaling n8n — 03,Queue mode and scaling n8n,1028,disable,loopcasts.example,True,False,False,2024-06-21
+700022194,Queue mode and scaling n8n — 04,Queue mode and scaling n8n,860,disable,loopcasts.example,True,False,False,2024-06-24
+700022331,queue mode and scaling n8n - 05,Queue mode and scaling n8n,954,disable,loopcasts.example,True,True,False,2024-06-27
+700022468,Queue mode and scaling n8n — 06,Queue mode and scaling n8n,1007,disable,loopcasts.example,True,True,False,2024-06-30
+700022605,Queue mode and scaling n8n — 07,Queue mode and scaling n8n,892,disable,loopcasts.example,False,False,False,2024-07-03
+700022742,Backups that restore — 01,Backups that restore,739,disable,loopcasts.example,True,True,False,2022-09-04
+700022879,Backups that restore — 02,Backups that restore,665,disable,loopcasts.example,True,False,False,2022-09-07
+700023016,Backups that restore — 03,Backups that restore,370,disable,loopcasts.example,True,True,False,2022-09-10
+700023153,Backups that restore — 04,Backups that restore,546,disable,loopcasts.example,True,False,False,2022-09-13
+700023290,Backups that restore — 05,Backups that restore,500,disable,loopcasts.example,True,True,False,2022-09-16
+700023427,Backups that restore — 06,Backups that restore,696,disable,loopcasts.example,True,True,False,2022-09-19
+700023564,Backups that restore — 07,Backups that restore,844,disable,loopcasts.example,True,True,False,2022-09-22
+700023701,Backups that restore — 08,Backups that restore,596,disable,loopcasts.example,False,True,False,2022-09-25
+700023838,Backups that restore — 09,Backups that restore,1151,disable,loopcasts.example,True,True,False,2022-09-28
+700023975,Backups that restore — 10,Backups that restore,582,disable,loopcasts.example,False,True,False,2022-10-01
+700024112,Backups that restore — 11,Backups that restore,942,disable,loopcasts.example,True,True,False,2022-10-04
+700024249,backups that restore - 12,Backups that restore,1047,disable,loopcasts.example,True,False,False,2022-10-07
+700024386,Backups that restore — 13,Backups that restore,996,disable,loopcasts.example,True,True,False,2022-10-10
+700024523,Monitoring your workflows — 01,Monitoring your workflows,426,disable,loopcasts.example,True,True,False,2019-03-27
+700024660,Monitoring your workflows — 02,Monitoring your workflows,435,disable,loopcasts.example,True,True,False,2019-03-30
+700024797,Monitoring your workflows — 03,Monitoring your workflows,777,disable,loopcasts.example,True,False,False,2019-04-02
+700024934,Monitoring your workflows — 04,Monitoring your workflows,498,disable,loopcasts.example,True,False,False,2019-04-05
+700025071,Monitoring your workflows — 05,Monitoring your workflows,595,disable,loopcasts.example,True,True,False,2019-04-08
+700025208,Monitoring your workflows — 06,Monitoring your workflows,1062,disable,loopcasts.example,True,True,False,2019-04-11
+700025345,Monitoring your workflows — 07,Monitoring your workflows,1178,disable,loopcasts.example,True,False,False,2019-04-14
+700025482,Monitoring your workflows — 08,Monitoring your workflows,779,disable,loopcasts.example,True,True,False,2019-04-17
+700025619,LLM structured output — 01,LLM structured output,670,disable,loopcasts.example,True,False,False,2024-04-07
+700025756,LLM structured output — 02,LLM structured output,753,disable,loopcasts.example,True,True,False,2024-04-10
+700025893,LLM structured output — 03,LLM structured output,461,disable,loopcasts.example,True,False,False,2024-04-13
+700026030,LLM structured output — 04,LLM structured output,676,disable,loopcasts.example,False,False,False,2024-04-16
+700026167,LLM structured output — 05,LLM structured output,601,disable,loopcasts.example,True,False,False,2024-04-19
+700026304,LLM structured output — 06,LLM structured output,759,disable,loopcasts.example,False,True,False,2024-04-22
+700026441,LLM structured output — 07,LLM structured output,1127,disable,loopcasts.example,True,True,False,2024-04-25
+700026578,LLM structured output — 08,LLM structured output,523,disable,loopcasts.example,True,True,False,2024-04-28
+700026715,LLM structured output — 09,LLM structured output,613,disable,loopcasts.example,False,True,False,2024-05-01
+700026852,Local LLMs with Ollama — 01,Local LLMs with Ollama,974,disable,loopcasts.example,True,False,False,2020-05-09
+700026989,Local LLMs with Ollama — 02,Local LLMs with Ollama,766,disable,loopcasts.example,True,False,False,2020-05-12
+700027126,Local LLMs with Ollama — 03,Local LLMs with Ollama,996,disable,loopcasts.example,True,True,False,2020-05-15
+700027263,Local LLMs with Ollama — 04,Local LLMs with Ollama,1041,disable,loopcasts.example,True,False,False,2020-05-18
+700027400,Local LLMs with Ollama — 05,Local LLMs with Ollama,811,disable,loopcasts.example,False,False,False,2020-05-21
+700027537,local llms with ollama - 06,Local LLMs with Ollama,421,disable,loopcasts.example,False,True,False,2020-05-24
+700027674,Local LLMs with Ollama — 07,Local LLMs with Ollama,1120,disable,loopcasts.example,True,True,False,2020-05-27
+700027811,Local LLMs with Ollama — 08,Local LLMs with Ollama,583,disable,loopcasts.example,True,False,False,2020-05-30
+700027948,Local LLMs with Ollama — 09,Local LLMs with Ollama,978,disable,loopcasts.example,False,True,False,2020-06-02
+700028085,Local LLMs with Ollama — 10,Local LLMs with Ollama,469,disable,loopcasts.example,True,True,False,2020-06-05
+700028222,Local LLMs with Ollama — 11,Local LLMs with Ollama,876,disable,loopcasts.example,False,False,False,2020-06-08
+700028359,Vector databases in 60 minutes — 01,Vector databases in 60 minutes,839,disable,loopcasts.example,True,True,False,2026-06-23
+700028496,Vector databases in 60 minutes — 02,Vector databases in 60 minutes,1120,disable,loopcasts.example,True,False,False,2026-06-26
+700028633,vector databases in 60 minutes - 03,Vector databases in 60 minutes,684,disable,loopcasts.example,True,True,False,2026-06-29
+700028770,Vector databases in 60 minutes — 04,Vector databases in 60 minutes,783,disable,loopcasts.example,False,True,False,2026-07-02
+700028907,Vector databases in 60 minutes — 05,Vector databases in 60 minutes,502,disable,loopcasts.example,True,True,False,2026-07-05
+700029044,Vector databases in 60 minutes — 06,Vector databases in 60 minutes,810,disable,loopcasts.example,True,True,False,2026-07-08
+700029181,Vector databases in 60 minutes — 07,Vector databases in 60 minutes,841,disable,loopcasts.example,True,True,False,2026-07-11
+700029318,Vector databases in 60 minutes — 08,Vector databases in 60 minutes,852,disable,loopcasts.example,True,True,False,2026-07-14
+700029455,Vector databases in 60 minutes — 09,Vector databases in 60 minutes,588,disable,loopcasts.example,False,False,False,2026-07-17
+700029592,Vector databases in 60 minutes — 10,Vector databases in 60 minutes,669,disable,loopcasts.example,True,True,False,2026-07-20
+700029729,Vector databases in 60 minutes — 11,Vector databases in 60 minutes,684,disable,loopcasts.example,True,True,False,2026-07-23
+700029866,Vector databases in 60 minutes — 12,Vector databases in 60 minutes,1072,disable,loopcasts.example,False,True,False,2026-07-26
+700030003,Whisper: transcripts for free — 01,Whisper: transcripts for free,877,disable,loopcasts.example,True,True,False,2022-08-12
+700030140,Whisper: transcripts for free — 02,Whisper: transcripts for free,722,disable,loopcasts.example,True,True,False,2022-08-15
+700030277,Whisper: transcripts for free — 03,Whisper: transcripts for free,942,disable,loopcasts.example,False,False,False,2022-08-18
+700030414,Whisper: transcripts for free — 04,Whisper: transcripts for free,1002,disable,loopcasts.example,True,True,False,2022-08-21
+700030551,Whisper: transcripts for free — 05,Whisper: transcripts for free,805,disable,loopcasts.example,True,False,False,2022-08-24
+700030688,Whisper: transcripts for free — 06,Whisper: transcripts for free,916,disable,loopcasts.example,True,True,False,2022-08-27
+700030825,Whisper: transcripts for free — 07,Whisper: transcripts for free,943,disable,loopcasts.example,True,False,False,2022-08-30
+700030962,Evaluating prompts — 01,Evaluating prompts,436,disable,loopcasts.example,True,False,False,2024-07-15
+700031099,Evaluating prompts — 02,Evaluating prompts,386,disable,loopcasts.example,True,True,False,2024-07-18
+700031236,Evaluating prompts — 03,Evaluating prompts,1166,disable,loopcasts.example,True,True,False,2024-07-21
+700031373,Evaluating prompts — 04,Evaluating prompts,496,disable,loopcasts.example,True,False,False,2024-07-24
+700031510,Evaluating prompts — 05,Evaluating prompts,994,disable,loopcasts.example,True,True,False,2024-07-27
+700031647,Evaluating prompts — 06,Evaluating prompts,1045,disable,loopcasts.example,False,False,False,2024-07-30
+700031784,Evaluating prompts — 07,Evaluating prompts,927,disable,loopcasts.example,True,True,False,2024-08-02
+700031921,Evaluating prompts — 08,Evaluating prompts,880,disable,loopcasts.example,True,True,False,2024-08-05
+700032058,Human-in-the-loop patterns — 01,Human-in-the-loop patterns,518,disable,loopcasts.example,True,False,False,2026-06-23
+700032195,Human-in-the-loop patterns — 02,Human-in-the-loop patterns,1149,disable,loopcasts.example,True,False,False,2026-06-26
+700032332,Human-in-the-loop patterns — 03,Human-in-the-loop patterns,654,disable,loopcasts.example,False,False,False,2026-06-29
+700032469,Human-in-the-loop patterns — 04,Human-in-the-loop patterns,616,disable,loopcasts.example,True,False,False,2026-07-02
+700032606,Human-in-the-loop patterns — 05,Human-in-the-loop patterns,436,disable,loopcasts.example,False,True,False,2026-07-05
+700032743,Human-in-the-loop patterns — 06,Human-in-the-loop patterns,430,disable,loopcasts.example,False,False,False,2026-07-08
+700032880,Human-in-the-loop patterns — 07,Human-in-the-loop patterns,705,disable,loopcasts.example,True,True,False,2026-07-11
+700033017,Human-in-the-loop patterns — 08,Human-in-the-loop patterns,814,disable,loopcasts.example,True,False,False,2026-07-14
+700033154,Human-in-the-loop patterns — 09,Human-in-the-loop patterns,434,disable,loopcasts.example,True,True,False,2026-07-17
+700033291,Human-in-the-loop patterns — 10,Human-in-the-loop patterns,625,disable,loopcasts.example,False,True,False,2026-07-20
+700033428,Human-in-the-loop patterns — 11,Human-in-the-loop patterns,449,disable,loopcasts.example,False,False,False,2026-07-23
+700033565,Human-in-the-loop patterns — 12,Human-in-the-loop patterns,540,disable,loopcasts.example,True,True,False,2026-07-26
+700033702,Human-in-the-loop patterns — 13,Human-in-the-loop patterns,1143,disable,loopcasts.example,False,True,False,2026-07-29
+700033839,Human-in-the-loop patterns — 14,Human-in-the-loop patterns,1148,disable,loopcasts.example,True,False,False,2026-08-01
+700033976,Human-in-the-loop patterns — 15,Human-in-the-loop patterns,1035,disable,loopcasts.example,True,True,False,2026-08-04
+700034113,Human-in-the-loop patterns — 16,Human-in-the-loop patterns,831,disable,loopcasts.example,True,True,False,2026-08-07
+700034250,Secrets management — 01,Secrets management,745,disable,loopcasts.example,False,True,False,2023-05-23
+700034387,Secrets management — 02,Secrets management,862,disable,loopcasts.example,True,True,False,2023-05-26
+700034524,Secrets management — 03,Secrets management,1091,disable,loopcasts.example,True,True,False,2023-05-29
+700034661,Secrets management — 04,Secrets management,513,disable,loopcasts.example,True,True,False,2023-06-01
+700034798,Secrets management — 05,Secrets management,553,disable,loopcasts.example,True,True,False,2023-06-04
+700034935,Secrets management — 06,Secrets management,890,disable,loopcasts.example,True,True,False,2023-06-07
+700035072,Secrets management — 07,Secrets management,726,disable,loopcasts.example,True,False,False,2023-06-10
+700035209,Secrets management — 08,Secrets management,403,disable,loopcasts.example,True,True,False,2023-06-13
+700035346,Secrets management — 09,Secrets management,731,disable,loopcasts.example,True,True,False,2023-06-16
+700035483,Secrets management — 10,Secrets management,812,disable,loopcasts.example,True,True,False,2023-06-19
+700035620,Secrets management — 11,Secrets management,1059,disable,loopcasts.example,True,True,False,2023-06-22
+700035757,GDPR for automation builders — 01,GDPR for automation builders,964,disable,loopcasts.example,True,True,False,2019-02-28
+700035894,GDPR for automation builders — 02,GDPR for automation builders,485,disable,loopcasts.example,True,False,False,2019-03-03
+700036031,GDPR for automation builders — 03,GDPR for automation builders,1138,disable,loopcasts.example,True,True,False,2019-03-06
+700036168,GDPR for automation builders — 04,GDPR for automation builders,544,disable,loopcasts.example,True,False,False,2019-03-09
+700036305,GDPR for automation builders — 05,GDPR for automation builders,661,disable,loopcasts.example,True,True,False,2019-03-12
+700036442,GDPR for automation builders — 06,GDPR for automation builders,970,disable,loopcasts.example,True,False,False,2019-03-15
+700036579,GDPR for automation builders — 07,GDPR for automation builders,974,disable,loopcasts.example,True,True,False,2019-03-18
+700036716,GDPR for automation builders — 08,GDPR for automation builders,1015,disable,loopcasts.example,True,True,False,2019-03-21
+700036853,GDPR for automation builders — 09,GDPR for automation builders,837,disable,loopcasts.example,True,False,False,2019-03-24
+700036990,GDPR for automation builders — 10,GDPR for automation builders,417,disable,loopcasts.example,False,False,False,2019-03-27
+700037127,GDPR for automation builders — 11,GDPR for automation builders,803,disable,loopcasts.example,False,False,False,2019-03-30
+700037264,gdpr for automation builders - 12,GDPR for automation builders,508,disable,loopcasts.example,True,False,False,2019-04-02
+700037401,BPMN for developers — 01,BPMN for developers,712,disable,loopcasts.example,True,True,False,2024-01-25
+700037538,BPMN for developers — 02,BPMN for developers,575,disable,loopcasts.example,True,True,False,2024-01-28
+700037675,BPMN for developers — 03,BPMN for developers,658,disable,loopcasts.example,True,True,False,2024-01-31
+700037812,BPMN for developers — 04,BPMN for developers,1150,disable,loopcasts.example,True,True,False,2024-02-03
+700037949,BPMN for developers — 05,BPMN for developers,529,disable,loopcasts.example,True,False,False,2024-02-06
+700038086,BPMN for developers — 06,BPMN for developers,1103,disable,loopcasts.example,True,False,False,2024-02-09
+700038223,BPMN for developers — 07,BPMN for developers,377,disable,loopcasts.example,True,True,False,2024-02-12
+700038360,BPMN for developers — 08,BPMN for developers,556,disable,loopcasts.example,True,False,False,2024-02-15
+700038497,BPMN for developers — 09,BPMN for developers,542,disable,loopcasts.example,True,False,False,2024-02-18
+700038634,BPMN for developers — 10,BPMN for developers,429,disable,loopcasts.example,True,False,False,2024-02-21
+700038771,BPMN for developers — 11,BPMN for developers,1179,disable,loopcasts.example,True,True,False,2024-02-24
+700038908,BPMN for developers — 12,BPMN for developers,541,disable,loopcasts.example,True,True,False,2024-02-27
+700039045,Idempotency explained — 01,Idempotency explained,1039,disable,loopcasts.example,True,True,False,2021-11-28
+700039182,Idempotency explained — 02,Idempotency explained,517,disable,loopcasts.example,True,False,False,2021-12-01
+700039319,Idempotency explained — 03,Idempotency explained,1022,disable,loopcasts.example,False,True,False,2021-12-04
+700039456,Idempotency explained — 04,Idempotency explained,988,disable,loopcasts.example,False,True,False,2021-12-07
+700039593,Idempotency explained — 05,Idempotency explained,691,disable,loopcasts.example,False,True,False,2021-12-10
+700039730,idempotency explained - 06,Idempotency explained,907,disable,loopcasts.example,False,True,False,2021-12-13
+700039867,Idempotency explained — 07,Idempotency explained,967,disable,loopcasts.example,True,True,False,2021-12-16
+700040004,Idempotency explained — 08,Idempotency explained,925,disable,loopcasts.example,True,False,False,2021-12-19
+700040141,Idempotency explained — 09,Idempotency explained,1056,disable,loopcasts.example,True,True,False,2021-12-22
+700040278,Idempotency explained — 10,Idempotency explained,1021,disable,loopcasts.example,True,False,False,2021-12-25
+700040415,Idempotency explained — 11,Idempotency explained,633,disable,loopcasts.example,True,True,False,2021-12-28
+700040552,Idempotency explained — 12,Idempotency explained,384,disable,loopcasts.example,True,True,False,2021-12-31
+700040689,Idempotency explained — 13,Idempotency explained,913,disable,loopcasts.example,True,True,False,2022-01-03
+700040826,Rate limits and retries — 01,Rate limits and retries,1115,disable,loopcasts.example,True,False,False,2020-01-08
+700040963,Rate limits and retries — 02,Rate limits and retries,1031,disable,loopcasts.example,True,False,False,2020-01-11
+700041100,Rate limits and retries — 03,Rate limits and retries,990,disable,loopcasts.example,True,True,False,2020-01-14
+700041237,Rate limits and retries — 04,Rate limits and retries,489,disable,loopcasts.example,True,True,False,2020-01-17
+700041374,Rate limits and retries — 05,Rate limits and retries,767,disable,loopcasts.example,True,True,False,2020-01-20
+700041511,Rate limits and retries — 06,Rate limits and retries,818,disable,loopcasts.example,False,False,False,2020-01-23
+700041648,Rate limits and retries — 07,Rate limits and retries,374,disable,loopcasts.example,True,False,False,2020-01-26
+700041785,Rate limits and retries — 08,Rate limits and retries,639,disable,loopcasts.example,True,False,False,2020-01-29
+700041922,Rate limits and retries — 09,Rate limits and retries,968,disable,loopcasts.example,False,True,False,2020-02-01
+700042059,Rate limits and retries — 10,Rate limits and retries,683,disable,loopcasts.example,True,True,False,2020-02-04
+700042196,Rate limits and retries — 11,Rate limits and retries,525,disable,loopcasts.example,True,True,False,2020-02-07
+700042333,Rate limits and retries — 12,Rate limits and retries,943,disable,loopcasts.example,True,False,False,2020-02-10
+700042470,Zapier vs Make vs n8n — 01,Zapier vs Make vs n8n,423,disable,loopcasts.example,True,False,False,2020-10-18
+700042607,Zapier vs Make vs n8n — 02,Zapier vs Make vs n8n,382,disable,loopcasts.example,True,True,False,2020-10-21
+700042744,zapier vs make vs n8n - 03,Zapier vs Make vs n8n,942,disable,loopcasts.example,True,True,False,2020-10-24
+700042881,Zapier vs Make vs n8n — 04,Zapier vs Make vs n8n,604,disable,loopcasts.example,True,True,False,2020-10-27
+700043018,Zapier vs Make vs n8n — 05,Zapier vs Make vs n8n,779,disable,loopcasts.example,True,False,False,2020-10-30
+700043155,Zapier vs Make vs n8n — 06,Zapier vs Make vs n8n,1181,disable,loopcasts.example,True,True,False,2020-11-02
+700043292,Zapier vs Make vs n8n — 07,Zapier vs Make vs n8n,913,disable,loopcasts.example,True,False,False,2020-11-05
+700043429,Zapier vs Make vs n8n — 08,Zapier vs Make vs n8n,854,disable,loopcasts.example,True,False,False,2020-11-08
+700043566,Zapier vs Make vs n8n — 09,Zapier vs Make vs n8n,744,disable,loopcasts.example,True,True,False,2020-11-11
+700043703,Zapier vs Make vs n8n — 10,Zapier vs Make vs n8n,947,disable,loopcasts.example,True,True,False,2020-11-14
+700043840,Zapier vs Make vs n8n — 11,Zapier vs Make vs n8n,378,disable,loopcasts.example,True,True,False,2020-11-17
+700043977,Zapier vs Make vs n8n — 12,Zapier vs Make vs n8n,889,disable,loopcasts.example,True,True,False,2020-11-20
+700044114,Zapier vs Make vs n8n — 13,Zapier vs Make vs n8n,663,disable,loopcasts.example,False,True,False,2020-11-23
+700044251,Zapier vs Make vs n8n — 14,Zapier vs Make vs n8n,957,disable,loopcasts.example,True,True,False,2020-11-26
+700044388,Home automation with n8n — 01,Home automation with n8n,620,disable,loopcasts.example,False,True,False,2024-10-24
+700044525,Home automation with n8n — 02,Home automation with n8n,1108,disable,loopcasts.example,True,True,False,2024-10-27
+700044662,Home automation with n8n — 03,Home automation with n8n,1131,disable,loopcasts.example,True,False,False,2024-10-30
+700044799,home automation with n8n - 04,Home automation with n8n,778,disable,loopcasts.example,False,False,False,2024-11-02
+700044936,Home automation with n8n — 05,Home automation with n8n,666,disable,loopcasts.example,False,False,False,2024-11-05
+700045073,home automation with n8n - 06,Home automation with n8n,1017,disable,loopcasts.example,True,False,False,2024-11-08
+700045210,Home automation with n8n — 07,Home automation with n8n,839,disable,loopcasts.example,False,True,False,2024-11-11
+700045347,Git for workflow exports — 01,Git for workflow exports,1065,disable,loopcasts.example,True,False,False,2022-05-02
+700045484,Git for workflow exports — 02,Git for workflow exports,950,disable,loopcasts.example,True,True,False,2022-05-05
+700045621,Git for workflow exports — 03,Git for workflow exports,575,disable,loopcasts.example,True,True,False,2022-05-08
+700045758,Git for workflow exports — 04,Git for workflow exports,652,disable,loopcasts.example,True,False,False,2022-05-11
+700045895,Git for workflow exports — 05,Git for workflow exports,620,disable,loopcasts.example,True,True,False,2022-05-14
+700046032,Git for workflow exports — 06,Git for workflow exports,999,disable,loopcasts.example,True,True,False,2022-05-17
+700046169,Git for workflow exports — 07,Git for workflow exports,1012,disable,loopcasts.example,True,True,False,2022-05-20
+700046306,Git for workflow exports — 08,Git for workflow exports,362,disable,loopcasts.example,False,False,False,2022-05-23
+700046443,Git for workflow exports — 09,Git for workflow exports,398,disable,loopcasts.example,True,True,False,2022-05-26
+700046580,Git for workflow exports — 10,Git for workflow exports,677,disable,loopcasts.example,True,False,False,2022-05-29
+700046717,Git for workflow exports — 11,Git for workflow exports,1182,disable,loopcasts.example,True,True,False,2022-06-01
+700046854,Git for workflow exports — 12,Git for workflow exports,644,disable,loopcasts.example,True,True,False,2022-06-04
+700046991,Git for workflow exports — 13,Git for workflow exports,795,disable,loopcasts.example,True,False,False,2022-06-07
+700047128,Git for workflow exports — 14,Git for workflow exports,731,disable,loopcasts.example,True,False,False,2022-06-10
+700047265,Git for workflow exports — 15,Git for workflow exports,554,disable,loopcasts.example,True,True,False,2022-06-13
+700047402,Git for workflow exports — 16,Git for workflow exports,444,disable,loopcasts.example,True,True,False,2022-06-16
+700047539,CI/CD for n8n — 01,CI/CD for n8n,1019,disable,loopcasts.example,True,True,False,2023-07-15
+700047676,CI/CD for n8n — 02,CI/CD for n8n,810,disable,loopcasts.example,True,False,False,2023-07-18
+700047813,CI/CD for n8n — 03,CI/CD for n8n,815,disable,loopcasts.example,True,True,False,2023-07-21
+700047950,CI/CD for n8n — 04,CI/CD for n8n,766,disable,loopcasts.example,False,True,False,2023-07-24
+700048087,CI/CD for n8n — 05,CI/CD for n8n,524,disable,loopcasts.example,True,True,False,2023-07-27
+700048224,CI/CD for n8n — 06,CI/CD for n8n,1171,disable,loopcasts.example,False,True,False,2023-07-30
+700048361,CI/CD for n8n — 07,CI/CD for n8n,943,disable,loopcasts.example,False,True,False,2023-08-02
+700048498,excel to api - 01,Excel to API,805,disable,loopcasts.example,True,True,False,2021-04-15
+700048635,Excel to API — 02,Excel to API,601,disable,loopcasts.example,True,True,False,2021-04-18
+700048772,Excel to API — 03,Excel to API,514,disable,loopcasts.example,True,True,False,2021-04-21
+700048909,Excel to API — 04,Excel to API,507,disable,loopcasts.example,False,True,False,2021-04-24
+700049046,Excel to API — 05,Excel to API,1005,disable,loopcasts.example,True,True,False,2021-04-27
+700049183,Excel to API — 06,Excel to API,1080,disable,loopcasts.example,True,False,False,2021-04-30
+700049320,Excel to API — 07,Excel to API,706,disable,loopcasts.example,True,True,False,2021-05-03
+700049457,Excel to API — 08,Excel to API,718,disable,loopcasts.example,True,False,False,2021-05-06
+700049594,Excel to API — 09,Excel to API,491,disable,loopcasts.example,False,False,False,2021-05-09
+700049731,Excel to API — 10,Excel to API,834,disable,loopcasts.example,True,False,False,2021-05-12
+700049868,Excel to API — 11,Excel to API,613,disable,loopcasts.example,True,True,False,2021-05-15
+700050005,Excel to API — 12,Excel to API,709,disable,loopcasts.example,True,True,False,2021-05-18
+700050142,Excel to API — 13,Excel to API,1101,disable,loopcasts.example,True,False,False,2021-05-21
+700050279,Excel to API — 14,Excel to API,1048,disable,loopcasts.example,True,True,False,2021-05-24
+700050416,Excel to API — 15,Excel to API,871,disable,loopcasts.example,False,True,False,2021-05-27
+700050553,Data cleaning in the Code node — 01,Data cleaning in the Code node,644,disable,loopcasts.example,True,False,False,2020-06-18
+700050690,Data cleaning in the Code node — 02,Data cleaning in the Code node,532,disable,loopcasts.example,True,False,False,2020-06-21
+700050827,Data cleaning in the Code node — 03,Data cleaning in the Code node,987,disable,loopcasts.example,True,False,False,2020-06-24
+700050964,Data cleaning in the Code node — 04,Data cleaning in the Code node,920,disable,loopcasts.example,True,True,False,2020-06-27
+700051101,Data cleaning in the Code node — 05,Data cleaning in the Code node,1081,disable,loopcasts.example,True,False,False,2020-06-30
+700051238,Data cleaning in the Code node — 06,Data cleaning in the Code node,946,disable,loopcasts.example,True,True,False,2020-07-03
+700051375,Data cleaning in the Code node — 07,Data cleaning in the Code node,578,disable,loopcasts.example,True,False,False,2020-07-06
+700051512,Dates and time zones — 01,Dates and time zones,438,disable,loopcasts.example,True,False,False,2020-02-23
+700051649,Dates and time zones — 02,Dates and time zones,845,disable,loopcasts.example,True,False,False,2020-02-26
+700051786,Dates and time zones — 03,Dates and time zones,572,disable,loopcasts.example,True,True,False,2020-02-29
+700051923,Dates and time zones — 04,Dates and time zones,965,disable,loopcasts.example,True,True,False,2020-03-03
+700052060,Dates and time zones — 05,Dates and time zones,988,disable,loopcasts.example,True,False,False,2020-03-06
+700052197,Dates and time zones — 06,Dates and time zones,1155,disable,loopcasts.example,True,True,False,2020-03-09
+700052334,Dates and time zones — 07,Dates and time zones,362,disable,loopcasts.example,True,True,False,2020-03-12
+700052471,Dates and time zones — 08,Dates and time zones,775,disable,loopcasts.example,True,True,False,2020-03-15
+700052608,Dates and time zones — 09,Dates and time zones,513,disable,loopcasts.example,False,True,False,2020-03-18
+700052745,Dates and time zones — 10,Dates and time zones,737,disable,loopcasts.example,True,True,False,2020-03-21
+700052882,Dates and time zones — 11,Dates and time zones,908,disable,loopcasts.example,True,True,False,2020-03-24
+700053019,Invoicing workflows — 01,Invoicing workflows,383,disable,loopcasts.example,True,True,False,2024-12-26
+700053156,Invoicing workflows — 02,Invoicing workflows,1105,disable,loopcasts.example,True,True,False,2024-12-29
+700053293,Invoicing workflows — 03,Invoicing workflows,548,disable,loopcasts.example,True,True,False,2025-01-01
+700053430,Invoicing workflows — 04,Invoicing workflows,985,disable,loopcasts.example,True,True,False,2025-01-04
+700053567,Invoicing workflows — 05,Invoicing workflows,898,disable,loopcasts.example,True,False,False,2025-01-07
+700053704,Invoicing workflows — 06,Invoicing workflows,598,disable,loopcasts.example,True,True,False,2025-01-10
+700053841,Invoicing workflows — 07,Invoicing workflows,711,disable,loopcasts.example,False,False,False,2025-01-13
+700053978,Invoicing workflows — 08,Invoicing workflows,525,disable,loopcasts.example,True,True,False,2025-01-16
+700054115,Invoicing workflows — 09,Invoicing workflows,573,disable,loopcasts.example,False,False,False,2025-01-19
+700054252,Invoicing workflows — 10,Invoicing workflows,484,disable,loopcasts.example,True,True,False,2025-01-22
+700054389,Invoicing workflows — 11,Invoicing workflows,513,disable,loopcasts.example,True,True,False,2025-01-25
+700054526,Invoicing workflows — 12,Invoicing workflows,939,disable,loopcasts.example,True,False,False,2025-01-28
+700054663,Invoicing workflows — 13,Invoicing workflows,735,disable,loopcasts.example,False,True,False,2025-01-31
+700054800,Invoicing workflows — 14,Invoicing workflows,928,disable,loopcasts.example,True,True,False,2025-02-03
+700054937,Invoicing workflows — 15,Invoicing workflows,550,disable,loopcasts.example,False,False,False,2025-02-06
+700055074,CRM sync patterns — 01,CRM sync patterns,863,disable,loopcasts.example,False,False,False,2019-09-19
+700055211,CRM sync patterns — 02,CRM sync patterns,1109,disable,loopcasts.example,True,False,False,2019-09-22
+700055348,CRM sync patterns — 03,CRM sync patterns,411,disable,loopcasts.example,False,True,False,2019-09-25
+700055485,CRM sync patterns — 04,CRM sync patterns,384,disable,loopcasts.example,True,True,False,2019-09-28
+700055622,CRM sync patterns — 05,CRM sync patterns,672,disable,loopcasts.example,True,True,False,2019-10-01
+700055759,CRM sync patterns — 06,CRM sync patterns,597,disable,loopcasts.example,True,True,False,2019-10-04
+700055896,CRM sync patterns — 07,CRM sync patterns,589,disable,loopcasts.example,True,False,False,2019-10-07
+700056033,CRM sync patterns — 08,CRM sync patterns,1057,disable,loopcasts.example,False,True,False,2019-10-10
+700056170,CRM sync patterns — 09,CRM sync patterns,668,anybody,,True,True,False,2019-10-13
+700056307,CRM sync patterns — 10,CRM sync patterns,929,disable,loopcasts.example,True,True,False,2019-10-16
+700056444,CRM sync patterns — 11,CRM sync patterns,1184,disable,loopcasts.example,True,False,False,2019-10-19
+700056581,Testing workflows — 01,Testing workflows,1133,disable,loopcasts.example,True,True,False,2024-01-23
+700056718,Testing workflows — 02,Testing workflows,1049,disable,loopcasts.example,True,False,False,2024-01-26
+700056855,Testing workflows — 03,Testing workflows,1196,disable,loopcasts.example,True,False,False,2024-01-29
+700056992,Testing workflows — 04,Testing workflows,1057,disable,loopcasts.example,True,False,False,2024-02-01
+700057129,Testing workflows — 05,Testing workflows,1007,disable,loopcasts.example,True,True,False,2024-02-04
+700057266,Testing workflows — 06,Testing workflows,1199,disable,loopcasts.example,True,True,False,2024-02-07
+700057403,Testing workflows — 07,Testing workflows,812,disable,loopcasts.example,False,True,False,2024-02-10
+700057540,Testing workflows — 08,Testing workflows,990,disable,loopcasts.example,False,True,False,2024-02-13
+700057677,Testing workflows — 09,Testing workflows,1046,disable,loopcasts.example,False,True,False,2024-02-16
+700057814,testing workflows - 10,Testing workflows,852,disable,loopcasts.example,True,False,False,2024-02-19
+700057951,Testing workflows — 11,Testing workflows,796,disable,loopcasts.example,False,False,False,2024-02-22
+700058088,Testing workflows — 12,Testing workflows,1157,disable,loopcasts.example,True,False,False,2024-02-25
+700058225,Testing workflows — 13,Testing workflows,494,disable,loopcasts.example,True,True,False,2024-02-28
+700058362,Testing workflows — 14,Testing workflows,669,disable,loopcasts.example,False,False,False,2024-03-02
+700058499,Sub-workflows and reuse — 01,Sub-workflows and reuse,691,disable,loopcasts.example,True,True,False,2023-12-10
+700058636,Sub-workflows and reuse — 02,Sub-workflows and reuse,787,disable,loopcasts.example,True,False,False,2023-12-13
+700058773,Sub-workflows and reuse — 03,Sub-workflows and reuse,799,disable,loopcasts.example,False,True,False,2023-12-16
+700058910,Sub-workflows and reuse — 04,Sub-workflows and reuse,688,disable,loopcasts.example,True,True,False,2023-12-19
+700059047,Sub-workflows and reuse — 05,Sub-workflows and reuse,1096,disable,loopcasts.example,False,False,False,2023-12-22
+700059184,Sub-workflows and reuse — 06,Sub-workflows and reuse,1019,disable,loopcasts.example,True,True,False,2023-12-25
+700059321,Sub-workflows and reuse — 07,Sub-workflows and reuse,600,disable,loopcasts.example,False,False,False,2023-12-28
+700059458,Sub-workflows and reuse — 08,Sub-workflows and reuse,1143,disable,loopcasts.example,True,True,False,2023-12-31
+700059595,Sub-workflows and reuse — 09,Sub-workflows and reuse,1086,disable,loopcasts.example,True,False,False,2024-01-03
+700059732,Webhook security — 01,Webhook security,517,disable,loopcasts.example,True,False,False,2025-07-16
+700059869,Webhook security — 02,Webhook security,1165,disable,loopcasts.example,True,True,False,2025-07-19
+700060006,Webhook security — 03,Webhook security,1104,disable,loopcasts.example,True,True,False,2025-07-22
+700060143,Webhook security — 04,Webhook security,918,disable,loopcasts.example,True,True,False,2025-07-25
+700060280,Webhook security — 05,Webhook security,414,disable,loopcasts.example,False,False,False,2025-07-28
+700060417,Webhook security — 06,Webhook security,862,disable,loopcasts.example,False,True,False,2025-07-31
+700060554,Webhook security — 07,Webhook security,555,disable,loopcasts.example,True,True,False,2025-08-03
+700060691,Webhook security — 08,Webhook security,498,disable,loopcasts.example,True,False,False,2025-08-06
+700060828,Webhook security — 09,Webhook security,708,disable,loopcasts.example,True,True,False,2025-08-09
+700060965,Webhook security — 10,Webhook security,814,disable,loopcasts.example,True,True,False,2025-08-12
+700061102,Agents with memory — 01,Agents with memory,948,disable,loopcasts.example,True,True,False,2024-08-25
+700061239,Agents with memory — 02,Agents with memory,481,disable,loopcasts.example,False,True,False,2024-08-28
+700061376,Agents with memory — 03,Agents with memory,595,disable,loopcasts.example,True,True,False,2024-08-31
+700061513,Agents with memory — 04,Agents with memory,604,disable,loopcasts.example,True,True,False,2024-09-03
+700061650,Agents with memory — 05,Agents with memory,859,disable,loopcasts.example,True,True,False,2024-09-06
+700061787,agents with memory - 06,Agents with memory,925,disable,loopcasts.example,True,False,False,2024-09-09
+700061924,Agents with memory — 07,Agents with memory,928,disable,loopcasts.example,True,False,False,2024-09-12
+700062061,Agents with memory — 08,Agents with memory,427,disable,loopcasts.example,False,False,False,2024-09-15
+700062198,Agents with memory — 09,Agents with memory,1065,disable,loopcasts.example,False,True,False,2024-09-18
+700062335,Agents with memory — 10,Agents with memory,465,disable,loopcasts.example,False,False,False,2024-09-21
+700062472,Agents with memory — 11,Agents with memory,570,disable,loopcasts.example,True,False,False,2024-09-24
+700062609,Agents with memory — 12,Agents with memory,723,disable,loopcasts.example,True,True,False,2024-09-27
+700062746,Agents with memory — 13,Agents with memory,812,disable,loopcasts.example,True,True,False,2024-09-30
+700062883,Agents with memory — 14,Agents with memory,1099,disable,loopcasts.example,True,True,False,2024-10-03
+700063020,Agents with memory — 15,Agents with memory,665,disable,loopcasts.example,True,True,False,2024-10-06
+700063157,Multi-agent setups — 01,Multi-agent setups,655,disable,loopcasts.example,False,True,False,2026-03-16
+700063294,Multi-agent setups — 02,Multi-agent setups,667,disable,loopcasts.example,False,True,False,2026-03-19
+700063431,Multi-agent setups — 03,Multi-agent setups,1122,disable,loopcasts.example,True,False,False,2026-03-22
+700063568,Multi-agent setups — 04,Multi-agent setups,519,disable,loopcasts.example,False,True,False,2026-03-25
+700063705,Multi-agent setups — 05,Multi-agent setups,834,disable,loopcasts.example,True,False,False,2026-03-28
+700063842,Multi-agent setups — 06,Multi-agent setups,1087,disable,loopcasts.example,True,False,False,2026-03-31
+700063979,n8n basics — 01,n8n basics,319,disable,loopcasts.example,False,False,False,2024-06-01
+700064116,n8n basics — 02,n8n basics,700,disable,loopcasts.example,False,False,False,2024-06-01
+700064253,n8n basics — 03,n8n basics,579,disable,loopcasts.example,True,True,False,2024-06-01
+700064390,n8n basics — 04,n8n basics,705,disable,loopcasts.example,True,False,False,2024-06-01
+700064527,n8n basics — 05,n8n basics,353,disable,loopcasts.example,False,False,False,2024-06-01
+700064664,n8n basics — 06,n8n basics,754,disable,loopcasts.example,True,False,False,2024-06-01
+700064801,n8n basics — 07,n8n basics,326,disable,loopcasts.example,True,False,False,2024-06-01
+700064938,n8n basics — 08,n8n basics,363,disable,loopcasts.example,True,True,False,2024-06-01
+700065075,n8n basics — 09,n8n basics,525,disable,loopcasts.example,False,True,False,2024-06-01
+700065212,n8n basics — 10,n8n basics,605,disable,loopcasts.example,True,True,False,2024-06-01
+700065349,n8n basics - 11,n8n basics,344,disable,loopcasts.example,False,False,False,2024-06-01
+700065486,n8n basics — 12,n8n basics,585,disable,loopcasts.example,True,True,False,2024-06-01
+700065623,Webhooks from zero — 01,Webhooks from zero,611,disable,loopcasts.example,True,False,False,2024-06-01
+700065760,Webhooks from zero — 02,Webhooks from zero,577,disable,loopcasts.example,True,False,False,2024-06-01
+700065897,Webhooks from zero — 03,Webhooks from zero,347,disable,loopcasts.example,True,True,False,2024-06-01
+700066034,Webhooks from zero — 04,Webhooks from zero,724,disable,loopcasts.example,True,True,False,2024-06-01
+700066171,Webhooks from zero — 05,Webhooks from zero,533,anybody,,True,True,False,2024-06-01
+700066308,webhooks from zero - 06,Webhooks from zero,413,disable,loopcasts.example,True,True,False,2024-06-01
+700066445,Webhooks from zero — 07,Webhooks from zero,563,disable,loopcasts.example,False,True,False,2024-06-01
+700066582,Webhooks from zero — 08,Webhooks from zero,555,disable,loopcasts.example,False,False,False,2024-06-01
+700066719,Webhooks from zero — 09,Webhooks from zero,588,disable,loopcasts.example,True,True,False,2024-06-01
+700066856,REST APIs for data people — 01,REST APIs for data people,724,disable,loopcasts.example,True,False,False,2024-06-01
+700066993,REST APIs for data people — 02,REST APIs for data people,372,disable,loopcasts.example,True,False,False,2024-06-01
+700067130,REST APIs for data people — 03,REST APIs for data people,539,disable,loopcasts.example,True,False,False,2024-06-01
+700067267,REST APIs for data people — 04,REST APIs for data people,424,disable,loopcasts.example,True,True,False,2024-06-01
+700067404,REST APIs for data people — 05,REST APIs for data people,594,disable,loopcasts.example,True,True,False,2024-06-01
+700067541,REST APIs for data people — 06,REST APIs for data people,489,disable,loopcasts.example,True,True,False,2024-06-01
+700067678,REST APIs for data people — 07,REST APIs for data people,511,disable,loopcasts.example,False,True,False,2024-06-01
+700067815,REST APIs for data people — 08,REST APIs for data people,613,disable,loopcasts.example,True,False,False,2024-06-01
+700067952,REST APIs for data people — 09,REST APIs for data people,435,disable,loopcasts.example,True,True,False,2024-06-01
+700068089,REST APIs for data people — 10,REST APIs for data people,457,disable,loopcasts.example,True,True,False,2024-06-01
+700068226,REST APIs for data people — 11,REST APIs for data people,565,disable,loopcasts.example,True,True,False,2024-06-01
+700068363,REST APIs for data people — 12,REST APIs for data people,730,disable,loopcasts.example,True,True,False,2024-06-01
+700068500,REST APIs for data people — 13,REST APIs for data people,374,disable,loopcasts.example,True,True,False,2024-06-01
+700068637,REST APIs for data people — 14,REST APIs for data people,309,disable,loopcasts.example,True,True,False,2024-06-01
+700068774,Shell scripting that saves your week — 01,Shell scripting that saves your week,777,disable,loopcasts.example,False,True,False,2024-06-01
+700068911,Shell scripting that saves your week — 02,Shell scripting that saves your week,543,disable,loopcasts.example,True,True,False,2024-06-01
+700069048,Shell scripting that saves your week — 03,Shell scripting that saves your week,357,disable,loopcasts.example,True,False,False,2024-06-01
+700069185,Shell scripting that saves your week — 04,Shell scripting that saves your week,675,disable,loopcasts.example,True,True,False,2024-06-01
+700069322,Shell scripting that saves your week — 05,Shell scripting that saves your week,311,disable,loopcasts.example,True,True,False,2024-06-01
+700069459,Shell scripting that saves your week — 06,Shell scripting that saves your week,538,disable,loopcasts.example,False,True,False,2024-06-01
+700069596,Shell scripting that saves your week — 07,Shell scripting that saves your week,321,disable,loopcasts.example,False,True,False,2024-06-01
+700069733,Shell scripting that saves your week — 08,Shell scripting that saves your week,309,disable,loopcasts.example,True,True,False,2024-06-01
+700069870,Shell scripting that saves your week — 09,Shell scripting that saves your week,347,disable,loopcasts.example,True,False,False,2024-06-01
+700070007,Shell scripting that saves your week — 10,Shell scripting that saves your week,660,disable,loopcasts.example,True,False,False,2024-06-01
+700070144,Shell scripting that saves your week — 11,Shell scripting that saves your week,755,disable,loopcasts.example,True,False,False,2024-06-01
+700070281,Cron and schedulers — 01,Cron and schedulers,725,disable,loopcasts.example,True,True,False,2024-06-01
+700070418,Cron and schedulers — 02,Cron and schedulers,759,disable,loopcasts.example,False,False,False,2024-06-01
+700070555,Cron and schedulers — 03,Cron and schedulers,694,disable,loopcasts.example,True,False,False,2024-06-01
+700070692,Cron and schedulers — 04,Cron and schedulers,649,disable,loopcasts.example,False,True,False,2024-06-01
+700070829,Cron and schedulers — 05,Cron and schedulers,512,disable,loopcasts.example,True,True,False,2024-06-01
+700070966,Cron and schedulers — 06,Cron and schedulers,646,disable,loopcasts.example,True,False,False,2024-06-01
+700071103,Cron and schedulers — 07,Cron and schedulers,572,disable,loopcasts.example,True,True,False,2024-06-01
+700071240,GitHub Actions in practice — 01,GitHub Actions in practice,380,disable,loopcasts.example,True,True,False,2024-06-01
+700071377,GitHub Actions in practice — 02,GitHub Actions in practice,747,disable,loopcasts.example,True,False,False,2024-06-01
+700071514,GitHub Actions in practice — 03,GitHub Actions in practice,603,disable,loopcasts.example,True,False,False,2024-06-01
+700071651,GitHub Actions in practice — 04,GitHub Actions in practice,761,disable,loopcasts.example,False,False,False,2024-06-01
+700071788,GitHub Actions in practice — 05,GitHub Actions in practice,346,disable,loopcasts.example,False,True,False,2024-06-01
+700071925,GitHub Actions in practice — 06,GitHub Actions in practice,482,disable,loopcasts.example,True,True,False,2024-06-01
+700072062,GitHub Actions in practice — 07,GitHub Actions in practice,602,disable,loopcasts.example,False,True,False,2024-06-01
+700072199,GitHub Actions in practice — 08,GitHub Actions in practice,467,disable,loopcasts.example,False,True,False,2024-06-01
+700072336,GitHub Actions in practice — 09,GitHub Actions in practice,597,disable,loopcasts.example,True,True,False,2024-06-01
+700072473,github actions in practice - 10,GitHub Actions in practice,529,disable,loopcasts.example,True,True,False,2024-06-01
+700072610,n8n error handling — 01,n8n error handling,664,disable,loopcasts.example,True,True,False,2024-06-01
+700072747,n8n error handling — 02,n8n error handling,304,disable,loopcasts.example,False,True,False,2024-06-01
+700072884,n8n error handling — 03,n8n error handling,410,disable,loopcasts.example,True,False,False,2024-06-01
+700073021,n8n error handling — 04,n8n error handling,708,disable,loopcasts.example,False,True,False,2024-06-01
+700073158,n8n error handling — 05,n8n error handling,691,disable,loopcasts.example,True,True,False,2024-06-01
+700073295,n8n error handling — 06,n8n error handling,420,disable,loopcasts.example,True,False,False,2024-06-01
+700073432,n8n error handling — 07,n8n error handling,349,disable,loopcasts.example,True,True,False,2024-06-01
+700073569,n8n error handling — 08,n8n error handling,482,disable,loopcasts.example,True,True,False,2024-06-01
+700073706,Zapier to n8n migration — 01,Zapier to n8n migration,334,disable,loopcasts.example,True,True,False,2024-06-01
+700073843,Zapier to n8n migration — 02,Zapier to n8n migration,331,disable,loopcasts.example,False,True,False,2024-06-01
+700073980,Zapier to n8n migration — 03,Zapier to n8n migration,694,disable,loopcasts.example,True,True,False,2024-06-01
+700074117,Zapier to n8n migration — 04,Zapier to n8n migration,445,disable,loopcasts.example,True,True,False,2024-06-01
+700074254,Zapier to n8n migration — 05,Zapier to n8n migration,324,disable,loopcasts.example,False,True,False,2024-06-01
+700074391,Zapier to n8n migration — 06,Zapier to n8n migration,371,disable,loopcasts.example,True,True,False,2024-06-01
+700074528,Prompt engineering for workflows — 01,Prompt engineering for workflows,489,disable,loopcasts.example,True,True,False,2024-06-01
+700074665,prompt engineering for workflows - 02,Prompt engineering for workflows,415,disable,loopcasts.example,True,True,False,2024-06-01
+700074802,Prompt engineering for workflows — 03,Prompt engineering for workflows,439,disable,loopcasts.example,False,False,False,2024-06-01
+700074939,Prompt engineering for workflows — 04,Prompt engineering for workflows,709,disable,loopcasts.example,True,True,False,2024-06-01
+700075076,Prompt engineering for workflows — 05,Prompt engineering for workflows,389,disable,loopcasts.example,True,True,False,2024-06-01
+700075213,Prompt engineering for workflows — 06,Prompt engineering for workflows,750,disable,loopcasts.example,True,True,False,2024-06-01
+700075350,Prompt engineering for workflows — 07,Prompt engineering for workflows,482,disable,loopcasts.example,True,True,False,2024-06-01
+700075487,Prompt engineering for workflows — 08,Prompt engineering for workflows,631,disable,loopcasts.example,True,False,False,2024-06-01
+700075624,Prompt engineering for workflows — 09,Prompt engineering for workflows,733,disable,loopcasts.example,True,True,False,2024-06-01
+700075761,Prompt engineering for workflows — 10,Prompt engineering for workflows,688,disable,loopcasts.example,False,True,False,2024-06-01
+700075898,AI agents with n8n — 01,AI agents with n8n,504,disable,loopcasts.example,True,True,False,2024-06-01
+700076035,AI agents with n8n — 02,AI agents with n8n,701,disable,loopcasts.example,True,True,False,2024-06-01
+700076172,AI agents with n8n — 03,AI agents with n8n,656,disable,loopcasts.example,True,True,False,2024-06-01
+700076309,AI agents with n8n — 04,AI agents with n8n,650,disable,loopcasts.example,True,False,False,2024-06-01
+700076446,AI agents with n8n — 05,AI agents with n8n,484,disable,loopcasts.example,True,True,False,2024-06-01
+700076583,AI agents with n8n — 06,AI agents with n8n,747,disable,loopcasts.example,False,True,False,2024-06-01
+700076720,AI agents with n8n — 07,AI agents with n8n,660,disable,loopcasts.example,True,True,False,2024-06-01
+700076857,AI agents with n8n — 08,AI agents with n8n,322,disable,loopcasts.example,True,True,False,2024-06-01
+700076994,AI agents with n8n — 09,AI agents with n8n,665,disable,loopcasts.example,True,False,False,2024-06-01
+700077131,AI agents with n8n — 10,AI agents with n8n,447,disable,loopcasts.example,True,True,False,2024-06-01
+700077268,AI agents with n8n — 11,AI agents with n8n,756,disable,loopcasts.example,False,True,False,2024-06-01
+700077405,AI agents with n8n — 12,AI agents with n8n,455,disable,loopcasts.example,True,False,False,2024-06-01
+700077542,AI agents with n8n — 13,AI agents with n8n,544,disable,loopcasts.example,False,True,False,2024-06-01
+700077679,RAG on your own documents — 01,RAG on your own documents,305,disable,loopcasts.example,True,True,False,2024-06-01
+700077816,RAG on your own documents — 02,RAG on your own documents,636,disable,loopcasts.example,False,True,False,2024-06-01
+700077953,RAG on your own documents — 03,RAG on your own documents,310,disable,loopcasts.example,True,True,False,2024-06-01
+700078090,RAG on your own documents — 04,RAG on your own documents,573,disable,loopcasts.example,True,False,False,2024-06-01
+700078227,RAG on your own documents — 05,RAG on your own documents,656,disable,loopcasts.example,True,True,False,2024-06-01
+700078364,RAG on your own documents — 06,RAG on your own documents,380,disable,loopcasts.example,True,True,False,2024-06-01
+700078501,RAG on your own documents — 07,RAG on your own documents,428,disable,loopcasts.example,False,True,False,2024-06-01
+700078638,RAG on your own documents — 08,RAG on your own documents,648,disable,loopcasts.example,True,True,False,2024-06-01
+700078775,rag on your own documents - 09,RAG on your own documents,317,disable,loopcasts.example,True,True,False,2024-06-01
+700078912,Invoices without typing — 01,Invoices without typing,536,disable,loopcasts.example,False,True,False,2024-06-01
+700079049,invoices without typing - 02,Invoices without typing,689,disable,loopcasts.example,True,False,False,2024-06-01
+700079186,Invoices without typing — 03,Invoices without typing,387,disable,loopcasts.example,True,True,False,2024-06-01
+700079323,Invoices without typing — 04,Invoices without typing,668,disable,loopcasts.example,False,True,False,2024-06-01
+700079460,Invoices without typing — 05,Invoices without typing,514,disable,loopcasts.example,False,False,False,2024-06-01
+700079597,Invoices without typing — 06,Invoices without typing,437,disable,loopcasts.example,True,False,False,2024-06-01
+700079734,Invoices without typing — 07,Invoices without typing,508,disable,loopcasts.example,True,True,False,2024-06-01
+700079871,Invoices without typing — 08,Invoices without typing,716,disable,loopcasts.example,True,False,False,2024-06-01
+700080008,MCP servers explained — 01,MCP servers explained,626,disable,loopcasts.example,True,False,False,2024-06-01
+700080145,MCP servers explained — 02,MCP servers explained,549,disable,loopcasts.example,True,True,False,2024-06-01
+700080282,MCP servers explained — 03,MCP servers explained,413,disable,loopcasts.example,True,True,False,2024-06-01
+700080419,MCP servers explained — 04,MCP servers explained,370,disable,loopcasts.example,True,False,False,2024-06-01
+700080556,MCP servers explained — 05,MCP servers explained,529,disable,loopcasts.example,True,True,False,2024-06-01
+700080693,MCP servers explained — 06,MCP servers explained,311,disable,loopcasts.example,True,True,False,2024-06-01
+700080830,Self-hosting n8n with Docker — 01,Self-hosting n8n with Docker,545,disable,loopcasts.example,True,False,False,2024-06-01
+700080967,Self-hosting n8n with Docker — 02,Self-hosting n8n with Docker,627,disable,loopcasts.example,True,False,False,2024-06-01
+700081104,Self-hosting n8n with Docker — 03,Self-hosting n8n with Docker,746,disable,loopcasts.example,False,False,False,2024-06-01
+700081241,Self-hosting n8n with Docker — 04,Self-hosting n8n with Docker,575,disable,loopcasts.example,True,False,False,2024-06-01
+700081378,Self-hosting n8n with Docker — 05,Self-hosting n8n with Docker,408,disable,loopcasts.example,True,True,False,2024-06-01
+700081515,self-hosting n8n with docker - 06,Self-hosting n8n with Docker,730,disable,loopcasts.example,True,True,False,2024-06-01
+700081652,Self-hosting n8n with Docker — 07,Self-hosting n8n with Docker,777,disable,loopcasts.example,True,True,False,2024-06-01
+700081789,Self-hosting n8n with Docker — 08,Self-hosting n8n with Docker,377,disable,loopcasts.example,False,False,False,2024-06-01
+700081926,self-hosting n8n with docker - 09,Self-hosting n8n with Docker,447,disable,loopcasts.example,False,True,False,2024-06-01

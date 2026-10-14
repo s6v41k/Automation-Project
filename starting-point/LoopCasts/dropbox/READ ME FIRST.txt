@@ -1,0 +1,16 @@
+Hi!
+
+This is a copy of our Dropbox, so you can see the real files next to the handbook.
+Tom removed the raw videos (too big). Everything else is as it is, sorry for the mess.
+
+ADMIN          old admin folder, some files are still used (orders 2025 for the renewals, the passwords file)
+ADMIN (new)    orders, invoice register, invoices as PDF (first quarter), bank export, templates
+Courses        course catalogue, Vimeo export, a script
+Marketing      newsletter list, last newsletter
+Mail exports   Tom exported a few mailboxes for you (orders@ Jan-Mar, support@ from mid May, and Yasmine's unsubscribe replies)
+Website        copy of the site + an export of the members database
+
+The colours in the Excel files mean something, see handbook chapter 3.
+The bank export is new: we asked KBC for it because you asked. Marieke normally just looks in the app.
+
+Marieke

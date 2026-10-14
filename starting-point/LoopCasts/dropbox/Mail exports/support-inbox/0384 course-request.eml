@@ -1,0 +1,15 @@
+From: Matthias <matthias@post.example>
+To: support@loopcasts.example
+Subject: Course request
+Date: Thu, 18 Jun 2026 12:13:00 -0000
+Message-ID: <87232c2830328fe6b355@mail.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi Lotte,
+
+Are you planning something about self-hosting n8n on Kubernetes?
+
+Kind regards,
+Matthias

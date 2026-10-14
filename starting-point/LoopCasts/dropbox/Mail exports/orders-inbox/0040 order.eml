@@ -1,0 +1,23 @@
+From: Sanne Hendriks <sanne.hendriks@orbitflow.example>
+To: orders@loopcasts.example
+Subject: order
+Date: Sat, 24 Jan 2026 10:07:00 -0000
+Message-ID: <808af4bebc1ccebd8662@mail.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Dear LoopCasts,
+
+I would like to order a single course.
+
+Name: Sanne Hendriks
+E-mail: sanne.hendriks@orbitflow.example
+Company: Orbitflow BV
+VAT: NL549172935B01
+Country: NL
+
+Kind regards,
+Sanne Hendriks
+
+(it is for the course about n8n error handling)

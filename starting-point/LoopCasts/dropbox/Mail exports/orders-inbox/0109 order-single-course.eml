@@ -1,0 +1,23 @@
+From: Ruben Bogaert <ruben.bogaert@bogaert-studio.example>
+To: orders@loopcasts.example
+Subject: Order: single course
+Date: Mon, 30 Mar 2026 10:45:00 -0000
+Message-ID: <ecd6681e7046aa54e7f6@mail.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Dear LoopCasts,
+
+I would like to order a single course.
+
+Name: Ruben Bogaert
+E-mail: ruben.bogaert@bogaert-studio.example
+Company: Bogaert Studio VOF
+VAT: be0061828730
+Country: BE
+
+Kind regards,
+Ruben Bogaert
+
+(it is for the course about n8n error handling)

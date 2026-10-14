@@ -1,0 +1,20 @@
+From: Simon De Smet <simon@example.com>
+To: orders@loopcasts.example
+Subject: question + order
+Date: Thu, 12 Mar 2026 06:06:00 -0000
+Message-ID: <bfe96c2faac1cd9ca4ff@mail.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Dear LoopCasts,
+
+I would like to order a single course.
+
+Name: Simon De Smet
+E-mail: simon@example.com
+
+Kind regards,
+Simon De Smet
+
+(it is for the course about webhooks)

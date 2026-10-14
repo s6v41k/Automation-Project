@@ -1,0 +1,18 @@
+From: Wim De Smet <w.de.smet@de-smet-software.example>
+To: orders@loopcasts.example
+Subject: Order: yearly subscription
+Date: Fri, 27 Mar 2026 21:30:00 -0000
+Message-ID: <252fa1c000a747f50677@mail.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Dear LoopCasts,
+
+I would like to order a team licence.
+
+Name: Wim De Smet
+E-mail: w.de.smet@de-smet-software.example
+
+Kind regards,
+Wim De Smet
